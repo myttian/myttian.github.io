@@ -1,6 +1,6 @@
 ---
 typora-copy-images-to: image
-typora-root-url: /../docs/
+typora-root-url: ./
 ---
 
 ## docsify
@@ -9,7 +9,7 @@ typora-root-url: /../docs/
 
 官网：https://docsify.js.org/#/
 
-![img](/image/wps1.jpg)
+![img](/docs/image/wps1.jpg)
 
 类似产品：gitbook
 
