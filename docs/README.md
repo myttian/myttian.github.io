@@ -1,6 +1,6 @@
 ---
 typora-copy-images-to: image
-typora-root-url: .././
+typora-root-url: ../docs/
 ---
 
 ## docsify
