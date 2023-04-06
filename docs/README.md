@@ -9,7 +9,7 @@ typora-root-url: ./
 
 官网：https://docsify.js.org/#/
 
-![img](./image/wps1.jpg)
+![img](/image/wps1.jpg)
 
 类似产品：gitbook
 
