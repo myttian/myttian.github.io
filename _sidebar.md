@@ -4,3 +4,5 @@
   * [硬件知识](/md/电子技术/硬件知识)
 * 版本控制
   * [Git](/md/版本控制/Git版本控制)
+* 英语
+  * [english](/md/english/README)
