@@ -1,6 +1,6 @@
 <!-- ./_sidebar.md -->
 
-* 必备技能
+* [必备技能](/md/必备技能)
   * [Git版本控制](/md/必备技能/Git版本控制)
   * [markdown语法](/md/必备技能/markdown语法)
   * [Vim](/md/必备技能/Vim)
