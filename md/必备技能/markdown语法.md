@@ -6,17 +6,17 @@
 
 [obsidian](https://www.bilibili.com/video/BV1YB4y1q7PG/?spm_id_from=333.337.search-card.all.click&vd_source=7346303e5e18677d7261c2c0c109ecfd) [Hexo](https://www.bilibili.com/video/BV1Gt411z78z/?spm_id_from=333.337.search-card.all.click&vd_source=7346303e5e18677d7261c2c0c109ecfd) [在Markdown中处理纯文本属性与元数据](https://www.bilibili.com/video/BV1tN4y1m7hU/?spm_id_from=333.337.search-card.all.click&vd_source=7346303e5e18677d7261c2c0c109ecfd) 
 
-### 变量
+# 变量
 
 系统变量 %CD%,set设置变量  
 
-### 字符串操作
+# 字符串操作
 
 ```
 截取：echo %var:~n,k%  例：%str:~0,5%  	替换：%var:old_str=new_str%  例：%str:hello=good%
 ```
 
-### dos命令
+# dos命令
 
 [重定向操作符](https://blog.csdn.net/noter16/article/details/52680101) [批处理延迟变量!var!](https://blog.csdn.net/zhangyang0402/article/details/4849053) [批处理之家 ](http://bbs.bathome.net/thread-39-1-1.html)   中国DOS联盟
 
@@ -44,7 +44,7 @@ type nul > file1.txt #创建文件   <	从文件中而不是从键盘中输入
 cmd > file 2>&1 把 stdout 和 stderr 一起重定向到 file 文件中
 ```
 
-###### 条件语句if/else
+## 条件语句if/else
 
 ```
 IF [NOT] ERRORLEVEL number command     最后运行的程序返回一个等于或大于指定数字的退出代码，指定条件为 true
@@ -61,7 +61,7 @@ IF EXIST filename. (del filename.) ELSE echo filename. missing
 
 
 
-###### for语句
+## for语句
 
 [批处理之 for/f 详解](http://blog.sina.com.cn/s/blog_6a7839530102uweu.html)   [bat脚本基础教程](https://www.cnblogs.com/linyfeng/p/8072002.html)
 
@@ -95,8 +95,18 @@ for /f "delims=" %%i in ('dir /a /b /on %WORK_DIR%\*.txt') do ( echo %%i)
 	在 FOR 语句中显式声明 %%i。使用tokens= 隐式声明%%j 和%%k。只要不会引起试图声明高于字母“z”或“Z”的某个变量，则使用tokens= 可以指定最多 26 个输出变量。
 ```
 
-###### 例子
+## 例子
 
 [生成速查手册.bat](https://gitee.com/haujet/windows-batch-script/blob/master/生成速查手册.bat)
 
 [解决.md文档传输丢图片的方法](https://blog.csdn.net/Origamitnl/article/details/126310777?spm=1001.2101.3001.6650.11&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-11-126310777-blog-142566935.235%5Ev43%5Epc_blog_bottom_relevance_base4)	
+
+# cnblogs模板修改
+
+[美化博客园](https://www.cnblogs.com/suanai/p/14495886.html)	
+
+[修改CnBlogs博客园主题模板](https://blog.csdn.net/weixin_30872337/article/details/98443442)	
+
+[博客园自定义鼠标美化](https://www.cnblogs.com/yyyzyyyz/p/15383875.html)	 [cnblog-mouse_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=cnblog-mouse)	
+
+好的模板： [外部DirectX绘制实现 - lyshark](https://www.cnblogs.com/LyShark/p/17761931.html)	 
