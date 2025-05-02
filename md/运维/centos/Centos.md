@@ -1,3 +1,17 @@
+[安装CentOS7.9](https://www.bilibili.com/video/BV1a34y1s7Ja/?spm_id_from=333.337.search-card.all.click&vd_source=7346303e5e18677d7261c2c0c109ecfd) 
+
+[网络接口的命名](https://wenku.csdn.net/answer/ce6473de4451dfb515737dc3c2cd38c7)  [CentOS7设置开机文本界面](https://blog.csdn.net/test1280/article/details/63252690)
+
+- 改网卡命名：TAB,`ens33==eth0, ens34==eth1`
+- 网络编辑器：NAT,子网10.0.0.0，NAT设置10.0.0.254; 
+  - linux ：ipv4，10.0.0.129, DNS 223.5.5.5 和223.6.6.6 阿里公共DNS
+- xshell、
+  - xshell无反应：`FlexNet Licensing Service`禁用
+
+
+| ![](./Centos.assets/Snipaste_2024-02-24_13-56-37.jpg) | ![最小安装](./Centos.assets/Snipaste_2024-02-24_14-35-06.jpg) |
+| ----------------------------------------------------- | ------------------------------------------------------------ |
+
 ## 1、配置上网
 
 [ifcfg-eth0配置](https://blog.csdn.net/YiWangJiuShiXingFu/article/details/82048048) [虚拟机网络配置](https://cloud.tencent.com/developer/article/2077957)  [Centos7 最小化安装网络配置](https://www.cnblogs.com/junlin623/p/17051558.html) [网络设置](https://blog.csdn.net/tangbin0505/article/details/100592275) [上网](https://blog.csdn.net/qq_39247952/article/details/114521999)  [SSH连接不上](https://blog.csdn.net/qq_19783793/article/details/105774909)
