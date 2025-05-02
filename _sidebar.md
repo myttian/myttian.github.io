@@ -37,6 +37,6 @@
 * 运维
 
   * Linux
-    * [linux基础](/md/运维/linux基础)
+    * [linux基础](/md/运维/linux/linux基础)
 
   
