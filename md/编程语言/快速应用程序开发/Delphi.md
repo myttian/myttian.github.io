@@ -16,6 +16,21 @@
 
 # Delphi
 
-[Delphi](https://www.oschina.net/p/delphi?hmsr=aladdin1e1)	 
+[Delphi](https://www.oschina.net/p/delphi?hmsr=aladdin1e1)	
+
+[Windows无法使用帮助文档（.hlp）解决方案](https://fishc.com.cn/blog-9-1723.html)	 [win7下安装delphi7](https://blog.csdn.net/xfyxjz/article/details/6556560?spm=1001.2101.3001.6650.5&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-5-6556560-blog-8488039.235%5Ev43%5Epc_blog_bottom_relevance_base4)	[Delphi 7 在Win 7 下的安装使用](https://blog.csdn.net/iteye_129/article/details/82567399)	
+
+下载： [Borland Delphi 7 Enterprise(英文企业版)+Update1更新包](https://www.cnblogs.com/Ganders/p/12583665.html)	  [Delphi 开发工具各版本](https://www.cnblogs.com/sz1860/p/13335014.html)	[delphi 7下载 - Search](https://cn.bing.com/search?q=delphi+7%E4%B8%8B%E8%BD%BD&form=QBLHCN&sp=-1&lq=0&pq=delphi+7%E4%B8%8B%E8%BD%BD&sc=12-10&qs=n&sk=)	
 
 视频： [鱼C_Delphi](https://www.bilibili.com/video/BV12s411c7ct/?vd_source=7346303e5e18677d7261c2c0c109ecfd)	
+
+添加控件：双击添加到中心位置； 按sh画多个
+
+事件：双击按钮控件编辑事件
+
+| ![](./Delphi.assets/Snipaste_2025-05-01_11-41-22.jpg) | ![](./Delphi.assets/Snipaste_2025-05-01_12-15-34.jpg) |
+| ----------------------------------------------------- | ----------------------------------------------------- |
+| ![](./Delphi.assets/Snipaste_2025-05-01_12-13-53.jpg) | ![](./Delphi.assets/Snipaste_2025-05-01_13-44-49.jpg) |
+| ![](./Delphi.assets/Snipaste_2025-05-01_13-48-05.jpg) | ![](./Delphi.assets/Snipaste_2025-05-01_14-00-27.jpg) |
+| ![](./Delphi.assets/Snipaste_2025-05-01_14-24-35.jpg) | ![]()                                                 |
+

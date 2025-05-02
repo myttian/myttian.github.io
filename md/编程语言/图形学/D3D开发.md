@@ -39,7 +39,7 @@ mod技术：[蓝图系统_百度搜索](https://www.baidu.com/s?rsv_dl=re_dqa_ge
 | ![]()                                                  | ![]() |
 | ![]()                                                  | ![]() |
 
-## OpenGL
+# OpenGL
 
 [OpenGL](https://www.bilibili.com/video/BV1MJ411u7Bc?vd_source=7346303e5e18677d7261c2c0c109ecfd&p=4&spm_id_from=333.788.videopod.episodes)   [OpenGL入门和视频绘制](https://www.bilibili.com/video/BV1uB4y1u7eB/?vd_source=7346303e5e18677d7261c2c0c109ecfd)		[C++ 图形编程：使用 OpenGL 实现简单 3D 场景渲染](https://blog.csdn.net/2401_87432205/article/details/147412253)	 
 
@@ -50,3 +50,7 @@ mod技术：[蓝图系统_百度搜索](https://www.baidu.com/s?rsv_dl=re_dqa_ge
 3. 创建着色器程序，至少包含顶点着色器、片元着色器，以及可能的几何着色器和曲面细分着色器。
 4. 将模型数据传递给着色器，并设置相关的uniform变量。
 5. 在渲染循环中，清除颜色缓冲区，绘制模型，并交换缓冲区。
+
+# 游戏外挂
+
+[FPS游戏外挂原理](https://www.bilibili.com/video/BV1WQZ7Y5EDh?vd_source=7346303e5e18677d7261c2c0c109ecfd&spm_id_from=333.788.videopod.sections)	
