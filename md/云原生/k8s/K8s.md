@@ -362,7 +362,7 @@ registry.k8s.io/etcd:3.5.12-0
 
 `kubectl apply -f .\pod.yaml`
 
-3.单独创建pod不方便，因为==集群中要运行很多pod==，写成==deployment文件==,  类似docker compose容器编排
+3.**单独创建pod不方便**，因为==集群中要运行很多pod==，写成==deployment文件==,  类似docker compose容器编排
 
 ​	- 用标签关联pod，template定义pod数据
 
@@ -627,7 +627,7 @@ Pod 重创后 IP 变了，名字也变了
 
 - Service ==通过 label 关联到对应的 Pod，不怕ip改变==
 - Servcie 生命周期不跟 Pod 绑定，不会因为 Pod 重建改变 IP
-- 提供了负载均衡功能，请求发到service，自动转发流量到不同 Pod
+- 提供了==负载均衡==功能，请求发到service，自动转发流量到不同 Pod
 - 可对集群外部提供访问端口       # 集群外部访问用端口转发port-forward,
 - 集群内部可通过服务名字访问     # 用服务ip也行
 
@@ -659,11 +659,10 @@ Pod 重创后 IP 变了，名字也变了
 - 例子：一个web服务； 一个mongodb服务，通过标签关联到mongodb数据库的pod，提供统一入口； 
   - 请求先到web服务，再转发到不同的pod，pod连接mongodb服务，再请求到mongodb数据库
 
-
-用来管理有状态的应用，例如数据库
+用来==管理有状态的应用==，例如数据库, pod重建，名字也是固定的
 前面部署的应用，都是不需要存储数据，不需要记住状态的，可以随意扩充副本，每个副本都是一样的，可替代的。
 而像数据库、Redis 这类有状态的，则不能随意扩充副本。
-StatefulSet 会固定每个 Pod 的名字
+==StatefulSet 会固定每个 Pod 的名字==
 
 - 连接指定 Pod： `pod-name.service-name`
 - 运行临时pod连接数据： `kubectl run mongodb-client --rm --tty -i --restart='Never' --image docker.io/bitnami/mongodb:4.4.10-debian-10-r20 --command -- bash`
@@ -688,7 +687,7 @@ apt update
 apt install iputils-ping
 ```
 
-在Kubernetes中，Headless服务可以通过DNS来让外部访问。Headless服务没有自己的IP地址，因此不会有单独的DNS记录指向它们的ClusterIP。但是，Headless服务的每个Pod都会有一个DNS记录，格式为`<pod-name>.<service-name>.<namespace>.svc.cluster.local`。
+在Kubernetes中，Headless服务可以通过DNS来让外部访问。==Headless服务没有自己的IP地址==,只能通过服务名访问，因此不会有单独的DNS记录指向它们的ClusterIP。但是，Headless服务的每个Pod都会有一个DNS记录，格式为`<pod-name>.<service-name>.<namespace>.svc.cluster.local`。
 
 要让外部访问Headless服务的Pod，你可以通过这些DNS记录来直接与Pod通信。这通常涉及到服务网格或者直接通过SDK/客户端库在应用层面进行通信
 
