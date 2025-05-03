@@ -84,7 +84,13 @@ linux docker k8s
 
 [DaoCloud ](http://get.daocloud.io/)    [CentOS Docker 安装 | 菜鸟教程](https://www.runoob.com/docker/centos-docker-install.html)    [Install Docker](https://docs.docker.com/engine/install/)   [Docker 的崛起、殒落](https://baijiahao.baidu.com/s?id=1725294485470667740&wfr=spider&for=pc)   [Docker-py](https://www.oschina.net/p/docker-py?hmsr=aladdin1e1)  [Docker安装-狂神](http://www.manongjc.com/detail/28-jrbefeanyxlhvgs.html)  [docker安装](https://blog.csdn.net/weixin_43164251/article/details/122877156) [Docker从入门到放弃](https://www.cnblogs.com/guihai/p/16212204.html#二、Docker安装以及配置（基于Centos安装）)  [Docker CE是什么](https://www.php.cn/docker/488462.html)  [Docker最新超详细版教程](https://www.bilibili.com/video/BV1og4y1q7M4?p=17&vd_source=7346303e5e18677d7261c2c0c109ecfd)
 
-docker仓库：[Docker Hub](https://hub.docker.com/)   [ Docker Hub](https://hub.docker.com/search?q=cloudstack)    [DaoCloud | Docker 极速下载](http://get.daocloud.io/)
+docker仓库：[Docker Hub](https://hub.docker.com/)   [ Docker Hub](https://hub.docker.com/search?q=cloudstack)    [DaoCloud | Docker 极速下载](http://get.daocloud.io/)   [Docker Hub](https://hub-stage.docker.com/)	
+
+[解决docker 仓库无法访问](https://blog.csdn.net/ladymorgana/article/details/139731425)  [DockerHub被封，万无一失的所有国外镜像仓库的镜像下载和同步方法](https://www.bilibili.com/video/BV137421d7za/?vd_source=7346303e5e18677d7261c2c0c109ecfd)		 
+
+[搭建 Docker 私有镜像仓库](https://www.cnblogs.com/studyjobs/p/17481217.html)	
+
+[docker虚拟Windows_百度搜索](https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&tn=baidu&wd=docker%E8%99%9A%E6%8B%9FWindows&oq=Docker&rsv_pq=d0b14586000aff33&rsv_t=6ed3W4RrA2%2BgizOXVbiprGOnNUV224BYMpLjs5NBKpe8all29VZQY8Qwt%2Bo&rqlang=cn&rsv_enter=1&rsv_dl=ts_0&rsv_sug3=8&rsv_sug1=5&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&prefixsug=Docker%25E8%2599%259A%25E6%258B%259Fwin&rsp=0&inputT=5936&rsv_sug4=5937)	[Windows系统搭建Docke](https://blog.csdn.net/tian_1_2_3/article/details/144213797)  [Docker](https://cloud.tencent.com/developer/article/1375788)	 [在 Windows 中配置 Docker](https://learn.microsoft.com/zh-cn/virtualization/windowscontainers/manage-docker/configure-docker-daemon)	 	
 
 [curl](https://baike.baidu.com/item/curl/10098606?fr=aladdin)   [curl 的用法指南 - 阮一峰](https://www.ruanyifeng.com/blog/2019/09/curl-reference.html)   [curl 命令详解](https://www.cnblogs.com/guixiaoming/p/8507268.html)  [ Linux curl命令最全详解](https://blog.csdn.net/angle_chen123/article/details/120675472)
 
@@ -1102,7 +1108,9 @@ Server接收Client指令,然后执行这个指令
 
 [docker_CLI](https://docs.docker.com/reference/cli/docker/image/)   [commandline](https://docs.docker.com/engine/reference/commandline/cli/)   [容器占用的磁盘空间](https://blog.51cto.com/u_16175510/8575986)  [Docker服务磁盘空间清理](https://cloud.tencent.com/developer/article/1853198?from=15425)  
 
-[Is the docker daemon running](https://wenku.csdn.net/answer/d5243c046545433cafc5e3c23aa8c6bf) [用户添加到docker组](https://www.cnblogs.com/phpper/p/16608924.html)  
+[Is the docker daemon running](https://wenku.csdn.net/answer/d5243c046545433cafc5e3c23aa8c6bf) [用户添加到docker组](https://www.cnblogs.com/phpper/p/16608924.html)   
+
+[Docker](https://www.helloworld.net/tutorial/docker/docker-hub)	
 
 [Xshell自动补全](https://blog.csdn.net/zhouwenyuan1015/article/details/105752262)   [k8s命令补全](https://blog.csdn.net/weixin_45697293/article/details/118365185?spm=1001.2101.3001.6650.5&utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-5-118365185-blog-126582047.235%5Ev43%5Epc_blog_bottom_relevance_base8&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-5-118365185-blog-126582047.235%5Ev43%5Epc_blog_bottom_relevance_base8&utm_relevant_index=6)  [kubernetes kubectl 命令补全](https://www.jianshu.com/p/86115d28adee) [source命令](https://blog.csdn.net/qq_47100953/article/details/126832801) [ source命令](https://blog.csdn.net/llg___/article/details/126250474)  [k8s命令补全](https://blog.csdn.net/xhx94/article/details/126582047) 
 
@@ -1879,7 +1887,7 @@ set name myttian ; 停止存name的容器，从redis启用； get name
    1. idea装个插件：`Docker integration`，dockerfile代码会高亮
    2. 把打包的jar和dockerfile上传到linux的idea目录
 
-4. 在idea目录下==构建镜像== : `docker build  -t kuangshen666 .`
+4. 在idea目录下==构建docker镜像== : `docker build  -t kuangshen666 .`
 5. 发布运行
    1. push到公有云，pull拉镜像
 
@@ -1915,6 +1923,8 @@ docker stack:类似docker compose；  secret权限认证； docker config
 | ---------------------------------------------------------- | ---------------------------------------------------------- |
 
 #### 1、==容器编排compose==(service)
+
+compose: 组成;构成
 
 视频： [Docker集群与编排](https://www.kuangstudy.com/course/play/1573900140073697282)    [wordpress部署](https://www.bilibili.com/video/BV1ed4y1o7HF/?spm_id_from=333.337.search-card.all.click&vd_source=7346303e5e18677d7261c2c0c109ecfd)  
 
@@ -2258,7 +2268,17 @@ ssh-copy-id  -i .ssh/id_rsa.pub    root@192.168.1.131
 | ![要配置免密码登录](./Docker_狂神.assets/Snipaste_2024-03-24_12-33-26.jpg) | ![](./Docker_狂神.assets/Snipaste_2024-03-24_13-08-21.jpg)   |
 | ![](./Docker_狂神.assets/Snipaste_2024-03-24_13-09-53.jpg)   |                                                              |
 
+#### 9、CI/CD
 
+[持续集成（CI）/持续部署（CD）](https://zhuanlan.zhihu.com/p/42286143)	 [ci cd_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=ci%20cd)	[CI/CD（持续集成，持续交付，持续部署）](https://iyunwei.blog.csdn.net/article/details/147431169)	[什么是 CI/CD ](https://mp.weixin.qq.com/s?__biz=Mzk0MDI3MTE0MQ==&mid=2247499310&idx=1&sn=00de2c3d7c5d3d26dda6cb76b760a772)	[详解自动化开发之CI/CD](https://blog.csdn.net/kevinjin2011/article/details/125603446)	
+
+[Jenkins_百度搜索](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=Jenkins&oq=ci%2520cd&rsv_pq=ae65f6f2000f9e0f&rsv_t=89d0I0f3p1GivR4aPtJE8g7JCktSxzLhwtL%2BDYC7cnodVU%2F2gWQmHUz1pTA&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_sug3=14&rsv_sug1=15&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&inputT=118891&rsv_sug4=118891)	
+
+> 工厂里的装配线以快速、自动化、可重复的方式从原材料生产出消费品。
+>
+> 同样，软件交付管道以快速、自动化和可重复的方式从源代码生成发布版本。
+>
+> 如何完成这项工作的总体设计称为“持续交付”（CD）。启动装配线的过程称为“持续集成”（CI）。确保质量的过程称为“持续测试”，将最终产品提供给用户的过程称为“持续部署”。一些专家让这一切简单、顺畅、高效地运行，这些人被称为 *运维开发([DevOps](https://zhida.zhihu.com/search?content_id=8459043&content_type=Article&match_order=1&q=DevOps&zhida_source=entity))*践行者。
 
 ## 七、运维
 

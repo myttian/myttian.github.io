@@ -4,6 +4,8 @@
 
 [语句的结束](https://www.cnblogs.com/chanshuyi/p/quick_start_of_shell_05_sentence_end_syntax.html)  
 
+[Shell入门](https://www.bilibili.com/video/BV17m411U7cC/?vd_source=7346303e5e18677d7261c2c0c109ecfd)	
+
 shell语句结尾没有特定的标记
 
 ### shell简介
