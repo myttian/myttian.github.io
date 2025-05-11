@@ -4,7 +4,7 @@
 
 [c、c++和c#有什么不同 ](https://www.cnblogs.com/Dongmy/p/17680212.html) [理解C#、C++和C的不同之处](https://zhuanlan.zhihu.com/p/592623692)  [c c++ c#_百度搜索](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=c%20c%2B%2B%20c%23&oq=c%2520c%252B%252B&rsv_pq=88ee19d500412e02&rsv_t=6dd55l0FaZ8n3%2Ff%2Bjlcy7BYuIUC1v1wMaIKB4YJFNKsICDcNejtYqLiy%2FfM&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_sug3=5&rsv_sug1=5&rsv_sug7=100&sug=c%2520c%252B%252B%2520c%2523%25E7%259A%2584%25E5%25BC%2582%25E5%2590%258C&rsv_n=1&rsv_sug2=0&rsv_btype=t&inputT=5379&rsv_sug4=5713)   [.NET（免费开源开发平台）](https://baike.baidu.com/item/.NET/156737?fr=ge_ala)  [.NET框架_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=.NET%E6%A1%86%E6%9E%B6)   [C#.NET体系图文概述—2024最全总结](https://www.cnblogs.com/sexintercourse/p/18176286) 
 
-视频： [C++快速入门_小甲鱼](https://www.bilibili.com/video/BV1Ps411w73m/?vd_source=7346303e5e18677d7261c2c0c109ecfd)    [求知讲堂C语言/C++](https://www.bilibili.com/video/BV1fZ4y1F7Vt/?vd_source=7346303e5e18677d7261c2c0c109ecfd)	 
+视频： [C++快速入门_小甲鱼](https://www.bilibili.com/video/BV1Ps411w73m/?vd_source=7346303e5e18677d7261c2c0c109ecfd)    [求知讲堂C语言/C++](https://www.bilibili.com/video/BV1fZ4y1F7Vt/?vd_source=7346303e5e18677d7261c2c0c109ecfd)	 [C++零基础](https://www.bilibili.com/video/BV1Y6oVYGE4v?spm_id_from=333.788.recommend_more_video.3&vd_source=7346303e5e18677d7261c2c0c109ecfd)	
 
 [C++菜鸟教程](https://www.runoob.com/cplusplus/cpp-operators.html) 
 
@@ -76,15 +76,23 @@ STL的设计目标是提供高效、灵活和易用的数据结构和算法，�
 
 笔记：[C++ primer全书笔记](https://www.jb51.net/books/193894.html)  [小甲鱼c++快速入门笔记](https://blog.csdn.net/qq_32809093/article/details/90544933)  [学习笔记](https://blog.51cto.com/u_15346339/3689321)  [小甲鱼C++笔记（上）1-24 ](https://www.cnblogs.com/raichen/p/4156873.html)  [小甲鱼C++快速入门笔记_百度搜索](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=%E5%B0%8F%E7%94%B2%E9%B1%BCC%2B%2B%E5%BF%AB%E9%80%9F%E5%85%A5%E9%97%A8%E7%AC%94%E8%AE%B0&oq=%2526lt%253B%252B%252B%25E5%25BF%25AB%25E9%2580%259F%25E5%2585%25A5%25E9%2597%25A8&rsv_pq=b985b9170001f0b6&rsv_t=92b9d7BBne2jobs5pV02h1F9Ks%2FEzSaIxWuKNHtfyCNyefZmLhsj3FS5DnM&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_sug3=20&rsv_sug1=9&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&inputT=11736&rsv_sug4=11736) 
 
-[C++ 基本的输入输出 ](https://www.runoob.com/cplusplus/cpp-basic-input-output.html) 
+## OO思想
+| ![](./c++.assets/Snipaste_2025-05-11_11-11-19.jpg)      | ![](./c++.assets/Snipaste_2025-05-11_11-12-16.jpg) |
+| ------------------------------------------------------- | -------------------------------------------------- |
+| ![](./c++.assets/Snipaste_2025-05-11_11-13-19.jpg)      | ![](./c++.assets/Snipaste_2025-05-11_11-13-44.jpg) |
 
 ## 从小程序说起
+
+c++扩展名： `.cpp`  c plus plus
+
+[C++ 基本的输入输出 ](https://www.runoob.com/cplusplus/cpp-basic-input-output.html) 
 
 ```c++
 //用命名空间
 using namespace std;
 cout<<"结果是："<<addArray(data,size)<<endl;
 //不用命名空间
+//将字符串流向cout对象，将addArray结果流向cout对象，将endl结束流向cout对象
 std::cout<<"结果是："<<addArray(data,size)<<std::endl;
 
 // 作业2：求带任意空格的输入整数之和,c++版本
@@ -112,12 +120,21 @@ int main() {
 }
 ```
 
+命名空间： 避免命名重复冲突
+
+运算符重载： 使运算符有另外的意义
+
+`cin`是输入流的对象
+
+==对象本质==是对结构(属性)加上接口(方法)的封装
 
 
-| ![](./c++.assets/Snipaste_2024-09-27_15-17-01.jpg)      | ![](./c++.assets/Snipaste_2024-09-27_15-18-02.jpg) |
-| ------------------------------------------------------- | -------------------------------------------------- |
-| ![c版本](./c++.assets/Snipaste_2024-09-27_15-55-01.jpg) | ![](./c++.assets/Snipaste_2024-09-27_15-53-12.jpg) |
-| ![](./c++.assets/Snipaste_2024-09-27_15-57-00.jpg)      | ![](./c++.assets/Snipaste_2024-09-27_15-58-02.jpg) |
+| ![](./c++.assets/Snipaste_2025-05-11_11-21-53.jpg)           | ![避免命名重复冲突](./c++.assets/Snipaste_2024-09-27_15-17-01.jpg) |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![重载使运算符有另外的意义](./c++.assets/Snipaste_2024-09-27_15-18-02.jpg) | ![c版本](./c++.assets/Snipaste_2024-09-27_15-55-01.jpg)      |
+| ![](./c++.assets/Snipaste_2025-05-11_11-41-00.jpg)           | ![](./c++.assets/Snipaste_2025-05-11_11-42-58.jpg)           |
+| ![c++](./c++.assets/Snipaste_2025-05-11_11-43-36.jpg)        | ![](./c++.assets/Snipaste_2024-09-27_15-53-12.jpg)           |
+| ![](./c++.assets/Snipaste_2024-09-27_15-57-00.jpg)           | ![](./c++.assets/Snipaste_2024-09-27_15-58-02.jpg)           |
 
 ## 运算符
 
@@ -140,7 +157,15 @@ while (x-- > 0)
 
 [::用法](https://www.runoob.com/w3cnote/cpp-two-colon-usage.html)  [双冒号（::）和单冒号（:）在 C++ 中的含义和作用](https://www.bilibili.com/read/cv27390849/)   [在C++中 :: 的三种意思](https://blog.csdn.net/weixin_45525272/article/details/107482219)  [C++中的::运算符](https://blog.csdn.net/sangyongqi/article/details/139770556)  [c++ ::_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=c%2B%2B%20%3A%3A) 
 
+[c++双冒号_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=c%2B%2B%E5%8F%8C%E5%86%92%E5%8F%B7)	 [C++中冒号（:）和双冒号（::）](https://cloud.tencent.com/developer/article/2193683)	
+
+作用域解析运算符`::`在C++中非常有用，主要用于解决`名称冲突、访问静态成员、继承自基类的成员`等场景
+
 这是作用域，如果想在类的外部引用静态成员函数，或在类的外部定义成员函数都要用到。使用命名空间里的类型或函数也要用到（如：std::cout, std::cin, std::string 等等）
+
+[C++ 标准库](https://www.runoob.com/cplusplus/cpp-libs-string.html)	 [std::string](https://blog.csdn.net/yang3wei/article/details/46341039)	 [字符串处理：std::string](https://cloud.tencent.com/developer/article/2431436)	
+
+==std::string== 是 C++ 标准库中的一个类，用于表示和处理字符串。它是 `std 命名空间`的一部分，因此在代码中需要使用 `std::string` 来引用它。std::string 提供了许多方便的成员函数来操作字符串
 
 ```c++
 class Test {
@@ -183,7 +208,19 @@ Test::get();  //使用静态成员函数时用::
 | -------------------------------------------------- | ----- |
 | ![]()                                              | ![]() |
 
-# 对象
+## 传值传址传引用
+
+函数的参数
+
+引用：声明时告诉函数，参数接收的是一个地址; 实参传过去时，编译器自动把参数翻译为地址，而不是以变量形式传过去
+
+| ![](./c++.assets/Snipaste_2025-05-11_14-44-10.jpg) | ![](./c++.assets/Snipaste_2025-05-11_14-46-37.jpg) |
+| -------------------------------------------------- | -------------------------------------------------- |
+| ![]()                                              | ![]()                                              |
+
+
+
+# ==对象==
 
 | ![public作用域](./c++.assets/Snipaste_2024-09-27_18-09-20.jpg) | ![](./c++.assets/Snipaste_2024-09-27_18-10-43.jpg) |
 | ------------------------------------------------------------ | -------------------------------------------------- |
@@ -236,13 +273,23 @@ Test::get();  //使用静态成员函数时用::
 
 ## 虚方法和抽象方法
 
+[虚函数和重写区别_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=%E8%99%9A%E5%87%BD%E6%95%B0%E5%B0%B1%E6%98%AF%E9%87%8D%E5%86%99)	
+
+[c++中虚函数（virtual），重写（override），多态（重点介绍动态多态）](https://blog.csdn.net/cyz322649/article/details/147016305)   [C++中的虚函数和纯虚函数](https://www.cnblogs.com/hellokitty2/p/18600682)		[C++类中的函数重写（覆盖）、虚函数、纯虚函数的区别与联系](https://blog.csdn.net/qq_21237549/article/details/137018377)	
+
+虚函数是声明一个可以被重写的函数，而重写是子类中具体实现这个函数的动作
+
+虚函数是概念上的定义，重写是具体实现的过程‌
+
+
+
 [C#高级编程](https://www.cnblogs.com/hxsfx/p/6601787.html)  [C# virtual 虚方法](https://blog.csdn.net/cuijiahao/article/details/104211208)   [虚方法](https://www.cnblogs.com/30ErLi/archive/2010/09/17/1829029.html)  [虚方法 ](https://wenku.baidu.com/view/64ac048225c52cc58ad6beb8.html?_wkts_=1727614859844)  [什么是虚方法](https://www.runoob.com/w3cnote/what-is-a-virtual-method.html) 
 
 [c++抽象方法_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=c%2B%2B%E6%8A%BD%E8%B1%A1%E6%96%B9%E6%B3%95)  [抽象方法](https://baike.baidu.com/item/%E6%8A%BD%E8%B1%A1%E6%96%B9%E6%B3%95/2953555?fr=ge_ala)  [抽象方法 ](https://www.cnblogs.com/LoveFishC/archive/2012/05/12/3846191.html) 
 
 [百度文库新一代文档阅读器！核心技术点全解析！](https://zhuanlan.zhihu.com/p/442137632#:~:text=%E7%9B%AE%E5%89%8D%E5%B0%8F%E7%A8%8B%E5%BA%8F%E4%BB%A5%E6%B5%81%E5%BC%8F)   [百度文库canvas](https://github.com/FisherManL/baiduwenkuCopy#:~:text=%E8%A7%A3%E9%99%A4%E7%99%BE%E5%BA%A6%E6%96%87%E5%BA%93%E5%A4%8D%E5%88%B6%E9%99%90%E5%88%B6%EF%BC%88baidu%E4%BD%BF%E7%94%A8canvas%E7%BB%98%E5%88%B6%E6%96%87%E6%9C%AC%EF%BC%8C%E6%AD%A4%E5%B7%A5%E5%85%B7%E6%97%A0%E6%B3%95%E4%BD%BF%E7%94%A8%E4%BA%86%EF%BC%89.%20Contribute%20to%20FisherManL/baiduwenkuCopy%20development%20by) 
 
-虚方法是在面向对象编程中用于实现多态性的一种方法
+==虚方法==是在面向对象编程中用于实现多态性的一种方法
 虚方法（虚函数，也叫重写函数）：把一个基类函数声明为virtual,就可以在任何派生类中重写该函数，在派生类中重写另外一个函数时，要使用override关键字显示声明。在子类里面重写虚函数后，在哪里调用都是调用重写之后的方法
 
 - 虚函数： c++多态的实现
@@ -258,6 +305,8 @@ Test::get();  //使用静态成员函数时用::
 | ![](./c++.assets/Snipaste_2024-09-30_16-33-06.jpg) | ![](./c++.assets/Snipaste_2024-09-30_16-35-03.jpg) |
 
 ## 运算符重载
+
+[C++：运算符重载](https://www.bilibili.com/video/BV11d4y1C7CM/?vd_source=7346303e5e18677d7261c2c0c109ecfd)	
 
 | ![](./c++.assets/Snipaste_2024-09-30_16-36-43.jpg) | ![](./c++.assets/Snipaste_2024-09-30_16-37-35.jpg) |
 | -------------------------------------------------- | -------------------------------------------------- |
@@ -275,6 +324,8 @@ Test::get();  //使用静态成员函数时用::
 | ![]()                                              | ![]() |
 
 # 错误处理
+
+## assert函数和捕获异常
 
 | ![](./c++.assets/Snipaste_2024-10-01_11-31-59.jpg) | ![断言](./c++.assets/Snipaste_2024-10-01_11-36-49.jpg) |
 | -------------------------------------------------- | ------------------------------------------------------ |
@@ -325,7 +376,7 @@ Test::get();  //使用静态成员函数时用::
 | -------------------------------------------------- | -------------------------------------------------- |
 | ![](./c++.assets/Snipaste_2024-10-01_16-11-15.jpg) | ![](./c++.assets/Snipaste_2024-10-01_16-11-44.jpg) |
 
-# 链接和作用域
+## 链接和作用域
 
 | ![](./c++.assets/Snipaste_2024-10-01_16-50-11.jpg) | ![](./c++.assets/Snipaste_2024-10-01_16-51-10.jpg) |
 | -------------------------------------------------- | -------------------------------------------------- |
@@ -335,3 +386,40 @@ Test::get();  //使用静态成员函数时用::
 | ![](./c++.assets/Snipaste_2024-10-01_16-57-40.jpg) | ![](./c++.assets/Snipaste_2024-10-01_16-57-59.jpg) |
 | ![](./c++.assets/Snipaste_2024-10-01_16-58-28.jpg) |                                                    |
 
+# 模板
+| ![](./c++.assets/Snipaste_2025-05-11_15-09-59.jpg) | ![](./c++.assets/Snipaste_2025-05-11_15-13-23.jpg) |
+| -------------------------------------------------- | -------------------------------------------------- |
+| ![](./c++.assets/Snipaste_2025-05-11_15-14-15.jpg) | ![](./c++.assets/Snipaste_2025-05-11_15-14-55.jpg) |
+## 函数模板
+| ![](./c++.assets/Snipaste_2025-05-11_15-16-22.jpg) | ![](./c++.assets/Snipaste_2025-05-11_15-17-05.jpg) |
+| -------------------------------------------------- | -------------------------------------------------- |
+| ![]()                                              | ![]()                                              |
+## 类模板
+| ![]() | ![]() |
+| ----- | ----- |
+| ![]() | ![]() |
+## 内联模板
+| ![]() | ![]() |
+| ----- | ----- |
+| ![]() | ![]() |
+# 容器和算法
+
+容器：怎么存放数据
+
+算法：处理存放的数据
+| ![](./c++.assets/Snipaste_2025-05-11_15-24-57.jpg) | ![](./c++.assets/Snipaste_2025-05-11_15-26-53.jpg) |
+| -------------------------------------------------- | -------------------------------------------------- |
+| ![](./c++.assets/Snipaste_2025-05-11_15-27-47.jpg) | ![](./c++.assets/Snipaste_2025-05-11_15-28-36.jpg) |
+| ![](./c++.assets/Snipaste_2025-05-11_15-29-22.jpg) | ![](./c++.assets/Snipaste_2025-05-11_15-30-20.jpg) |
+| ![](./c++.assets/Snipaste_2025-05-11_15-31-23.jpg) | ![](./c++.assets/Snipaste_2025-05-11_15-34-26.jpg) |
+| ![](./c++.assets/Snipaste_2025-05-11_15-34-52.jpg) | ![]()                                              |
+
+## 迭代器
+| ![](./c++.assets/Snipaste_2025-05-11_15-43-33.jpg) | ![](./c++.assets/Snipaste_2025-05-11_15-44-48.jpg) |
+| -------------------------------------------------- | -------------------------------------------------- |
+| ![](./c++.assets/Snipaste_2025-05-11_15-45-24.jpg) | ![](./c++.assets/Snipaste_2025-05-11_15-48-30.jpg) |
+
+## 算法
+| ![](./c++.assets/Snipaste_2025-05-11_15-51-01.jpg) | ![](./c++.assets/Snipaste_2025-05-11_15-51-39.jpg) |
+| -------------------------------------------------- | -------------------------------------------------- |
+| ![](./c++.assets/Snipaste_2025-05-11_15-52-06.jpg) | ![]()                                              |
