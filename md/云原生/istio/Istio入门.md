@@ -49,9 +49,11 @@ FAQ:[istioctl安装超时](https://cloud.tencent.com/developer/ask/sof/440420) [
 
 [使用ebpf加速 Istio/Envoy网络](https://www.bilibili.com/video/BV1Xy4y1K7Nb/?vd_source=7346303e5e18677d7261c2c0c109ecfd)   [ebpf_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=ebpf)  [ebpf-linux ](https://zhuanlan.zhihu.com/p/627317059)  [Linux网络新技术基石——eBPF](https://mp.weixin.qq.com/s?__biz=MzA3NjY2NzY1MA==&mid=2649740393&idx=1&sn=b048e8e068052549af0c44cb678a7140) 
 
+springcloud远程调用： [OpenFeign实现服务间调用](https://cloud.tencent.com/developer/article/2371890)	[springcloud_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=springcloud%20open)	[RPC 框架](https://cloud.tencent.com.cn/developer/article/2459050)	[RPC框架实现远程调用](https://blog.csdn.net/yuiezt/article/details/140190124)	
+
 > 服务网格
 
-解决微服务之间的通信问题： 让微服务开发者只关注微服务开发（实现业务），服务调用封装到Sidecar（控制和数据平面）；
+服务网格是一个专用的==基础架构层, 解决微服务之间的通信问题==： 让微服务开发者只关注微服务开发（实现业务），服务调用封装到Sidecar（控制和数据平面）；
 
 - 服务网格是一个专用的基础架构层，==用于管理分布式应用程序中各个微服务之间的通信==。它充当透明且分散的代理网络，这些代理部署在应用服务旁边。这些代理通常被称为==sidecar==，它们处理服务之间的通信，提供诸如服务发现、负载均衡、流量路由、身份验证和可观测性等关键功能
 
