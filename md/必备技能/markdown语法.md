@@ -6,6 +6,58 @@
 
 [obsidian](https://www.bilibili.com/video/BV1YB4y1q7PG/?spm_id_from=333.337.search-card.all.click&vd_source=7346303e5e18677d7261c2c0c109ecfd) [Hexo](https://www.bilibili.com/video/BV1Gt411z78z/?spm_id_from=333.337.search-card.all.click&vd_source=7346303e5e18677d7261c2c0c109ecfd) [在Markdown中处理纯文本属性与元数据](https://www.bilibili.com/video/BV1tN4y1m7hU/?spm_id_from=333.337.search-card.all.click&vd_source=7346303e5e18677d7261c2c0c109ecfd) 
 
+[教你解锁Markdown高级用法](https://juejin.cn/post/7109762042147373063)  
+
+Typora破解：
+
+[2022年最新Typora的破解方法](https://www.jb51.net/article/262499.htm)   [Typora 授权解密与剖析](https://www.52pojie.cn/forum.php?mod=viewthread&tid=1553967)
+
+typora+图床：[ Typora+PicGo图床配置](https://blog.csdn.net/weixin_50839420/article/details/123227203?spm=1001.2101.3001.6661.1&utm_medium=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1-123227203-blog-126279327.pc_relevant_multi_platform_whitelistv4&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2~default~CTRLIST~Rate-1-123227203-blog-126279327.pc_relevant_multi_platform_whitelistv4&utm_relevant_index=1) [优质图床](https://zhuanlan.zhihu.com/p/403554101)  [Markdown添加图床](https://zhuanlan.zhihu.com/p/110008873)  [pexels.com](https://www.pexels.com/search/beautiful girl/)
+
+typora：[Typora字体颜色设置的3种方案](https://blog.csdn.net/liulei952413829/article/details/114670380?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-114670380-blog-125280276.pc_relevant_3mothn_strategy_and_data_recovery&spm=1001.2101.3001.4242.1&utm_relevant_index=3)  [autohotkey换颜色](https://blog.csdn.net/qq_37759113/article/details/125280276)  [AutoHotkey](https://blog.csdn.net/Netceor/article/details/119811861?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~Rate-3-119811861-blog-125280276.pc_relevant_3mothn_strategy_and_data_recovery&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~Rate-3-119811861-blog-125280276.pc_relevant_3mothn_strategy_and_data_recovery&utm_relevant_index=6)  
+
+autohotkey参考手册：[官方文档](https://wyagd001.github.io/zh-cn/docs/AutoHotkey.htm) [AutoHotkey中文手册](https://ahkcn.sourceforge.net/docs/AutoHotkey.htm) [autohotkey参考](https://www.jianshu.com/p/b430f59387e8)  [AutoHotkey 快速入门](https://www.bilibili.com/video/BV1Xk4y1q7EL/?spm_id_from=333.337.search-card.all.click&vd_source=7346303e5e18677d7261c2c0c109ecfd)  [AutoGUI来学习AutoHotkey](https://www.bilibili.com/video/BV1mU4y1A7FE/?spm_id_from=333.788.recommend_more_video.7&vd_source=7346303e5e18677d7261c2c0c109ecfd) [AutoAHK中文社区](https://www.autoahk.com/) [安装后文件说明](https://www.bilibili.com/video/BV1Z741177j8/?spm_id_from=333.337.search-card.all.click&vd_source=7346303e5e18677d7261c2c0c109ecfd) [autoit脚本编程办公自动化](https://www.bilibili.com/video/BV127411F75C/?spm_id_from=333.788.recommend_more_video.10&vd_source=7346303e5e18677d7261c2c0c109ecfd)  [河许人](https://space.bilibili.com/38020172/video) 
+
+> 1. 基础
+>    1. ; 注释	 win = #   ahk与窗口相关的命令大多win开头	Ctrl = ^	Alt = !	Shift = +	转义：反引号     逗号分隔命令不同参数
+>    2. 运行程序: Run,{路径}\xx.exe           发送确认键(Enter)：Send,{ENTER}
+>    3. 下一步（确认键）：Send,{ALTDOWN}n{ALTUP}         [下一步的快捷键是alt+n 所以点击alt+n再放开]
+>    4. 打印特殊字符：比如感叹号,感叹号本身以及代表了Alt按键, 要打印感叹号可以这样: {raw}!
+>    5. 热键 ^+1::            热字串hotstring  `::kiss::haha`输入kiss后按tab，kiss被替换成haha
+> 2. 鼠标
+>    1. ~LButton & WheelUP::        波浪符～代表当用左键作热键时，ahk不会屏蔽它本身功能(这样鼠标左键不会失效)
+> 3. 文本替换
+>    1. ::tt::
+>       clipboard=这是要代替的内容
+>       send ^v
+>       return
+> 4. 自动登录
+>    1. ::cuser::
+>       send username
+>       send {tab}
+>       send password{raw}!
+>       send {enter}
+>       return
+> 5. 
+
+
+
+图书
+
+[github.com](https://github.com/lTbgykio/Books-Free-Books)
+
+[typora自动排序标题](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=typora自动排序标题&rn=20&oq=typora%E6%9C%89%E5%BA%8F%E5%88%97%E8%A1%A8%E4%B8%8D%E8%83%BD%E7%94%A8%E6%A0%87%E9%A2%98&rsv_pq=a4deac6800080566&rsv_t=b9cbow%2F3DSnpxddfRTPUPYtgeoyGrHhkEupCLhR8RMdY9fQp%2BLS3F6yUt6w&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_sug3=27&rsv_sug1=9&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&inputT=9056&rsv_sug4=158662) [Typora 标题的自动编号](https://blog.51cto.com/u_2930144/3864611) [typora设置标题自动编号](https://blog.csdn.net/juluwangriyue/article/details/125467325) [Typora自动排序的标题](https://blog.csdn.net/cw616729/article/details/108877240) [Typora 设置标题自动编号](https://blog.csdn.net/u012318074/article/details/123948859) [Hexo + Butterfly 从零开始搭建个人博客](https://blog.csdn.net/qq_41356250/article/details/125830994)
+
+# LaTeX
+
+[Equation Editor for online mathematics - create, integrate and download](https://editor.codecogs.com/)	
+
+[数学公式_全部_第1页 - LaTeX工作室](https://wenda.latexstudio.net/c-11)	[数学公式识别神器—Mathpix Snip - 知乎](https://zhuanlan.zhihu.com/p/63918634)	[MathType中文网站-MathType数学公式编辑器下载,MathType教程](https://www.mathtype.cn/)	[使用Markdown输出LaTex数学公式 - 知乎](https://zhuanlan.zhihu.com/p/59412540)	
+
+[在线LaTeX公式编辑器-编辑器](https://www.latexlive.com/##)	[LatexEasy | 在线Latex数学公式编辑和渲染](https://latexeasy.com/zh)	
+
+
+
 # 变量
 
 系统变量 %CD%,set设置变量  
