@@ -50,13 +50,85 @@ autohotkey参考手册：[官方文档](https://wyagd001.github.io/zh-cn/docs/Au
 
 # LaTeX
 
+
+
+[数学公式_全部_第1页 - LaTeX工作室](https://wenda.latexstudio.net/c-11)	[数学公式识别神器—Mathpix Snip - 知乎](https://zhuanlan.zhihu.com/p/63918634)	[MathType中文网站-MathType数学公式编辑器下载,MathType教程](https://www.mathtype.cn/)	
+
+[如何做到像使用 LaTeX 那样优雅地使用 Word？](https://www.zhihu.com/question/20541531)	 [LaTeX新人教程](http://www.360doc.com/content/13/0117/11/2886802_260681908.shtml)	[如何使用 TeX Live 和 TeXstudio 操作 LaTeX？](https://www.zhihu.com/question/25696183)	[LaTeX2ε 介绍](https://github.com/CTeX-org/lshort-zh-cn/blob/master/README-zh.md)	[一份不太简短的LaTeX2e介绍（新版完成） - LaTeX工作室](https://www.latexstudio.net/archives/6058.html)	[LaTeX 工作室](https://www.latexstudio.net/)	[LaTeX初学者的教程 ](https://www.latexstudio.net/archives/10392.html)	
+
+[论文写作的又一利器：VSCode + Latex Workshop + MikTex + Git](https://blog.csdn.net/yinqingwang/article/details/79684419?spm=1001.2101.3001.4242)	
+
+安装： [Windows10系统下LaTeX的安装及使用](https://zhuanlan.zhihu.com/p/37994589)	[怎么安装LaTex](https://zhuanlan.zhihu.com/p/56982388)	[搭建 LaTeX 舒适写作环境（VSCode） ](https://zhuanlan.zhihu.com/p/139210056)	[Visual Studio Code 配置 Latex环境 ](https://blog.djinguo.com/2018-11-30/latexVScode/)	[在Win7上安装TexLive及设置XeLaTeX的整个过程](https://blog.csdn.net/RobertChenGuangzhi/article/details/48106893)	
+
+## markdown公式
+
+[菜鸟教程：Markdown高级技巧](https://www.runoob.com/markdown/md-advance.html) 	
+
+ **Markdown Preview Enhanced** 使用 [KaTeX](https://github.com/Khan/KaTeX) 或者 [MathJax](https://github.com/mathjax/MathJax) 来渲染数学表达式
+
+例子： [内存带宽_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=%E5%86%85%E5%AD%98%E5%B8%A6%E5%AE%BD)	
+
+内存带宽的计算公式为：
+
+$$ \text{内存带宽} = \text{内存位宽} \times \text{时钟频率} $$
+
+例如，如果一个内存芯片的位宽为64位，时钟频率为2 GHz，那么其内存带宽为：
+
+$$ \text{内存带宽} = 64 \text{ bits/cycle} \times 2,000,000,000 \text{ cycles/second} = 1,280,000,000 \text{ bits/second} $$
+
+或者转换为字节（Byte）：
+
+$$ \text{内存带宽} = \frac{1,280,000,000 \text{ bits}}{8} = 160,000,000 \text{ Bytes/second} $$
+
+## MathJax
+
+[mathjax/MathJax: Beautiful and accessible math in all browsers](https://github.com/mathjax/MathJax)	
+
+MathJax 是一个开源 JavaScript 显示引擎，支持 LaTeX、MathML 和 AsciiMath 符号
+
+## KaTeX
+
+[KaTeX/KaTeX: Fast math typesetting for the web.](https://github.com/KaTeX/KaTeX)
+
+[MathJax | Beautiful math in all browsers.](https://www.mathjax.org/)	   [TeX 和 LaTeX 支持 — MathJax 3.2 文档](https://docs.mathjax.org/en/latest/input/tex/index.html)	
+
+KaTeX 是一个快速、易于使用的 JavaScript 库，用于在网络上进行 TeX 数学渲染	
+
+## TeX命令
+
+TeX : [TeX（文本排版系统）_百度百科](https://baike.baidu.com/item/TeX/3794463?fr=aladdin)	
+
+[MathJax语法总结](https://www.cnblogs.com/blknemo/p/16745637.html)  [mathjax编写数学 — MathJax 3.2 文档](https://www.osgeo.cn/mathjax/basic/mathematics.html)	 [LaTeX2e 完全学习手册](https://www.latexstudio.net/hulatex/index.htm)	[学习文档 - LaTeX工作室](https://www.latexstudio.net/archives/51802)	[LaTeX2e 文类和宏包学习手册_百度搜索](https://www.baidu.com/s?wd=LaTeX2e%20%E6%96%87%E7%B1%BB%E5%92%8C%E5%AE%8F%E5%8C%85%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C&pn=10&oq=LaTeX2e%20%E6%96%87%E7%B1%BB%E5%92%8C%E5%AE%8F%E5%8C%85%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C&ie=utf-8&rsv_page=1)	[LaTeX 绘图指南TikZ](https://www.latexstudio.net/archives/51577.html)	[LaTeX2e插图指南](https://www.latexstudio.net/archives/10738)	[以 Markdown 撰写文稿，以 LaTeX 排版](https://www.latexstudio.net/archives/51808.html)	 [以 Markdown 撰写文稿，以 LaTeX 排版 ](https://liam.page/2020/03/30/writing-manuscript-in-Markdown-and-typesetting-with-LaTeX/)	
+
+帮助： [帮助文档](https://www.latexlive.com/help) 	[LaTeX - 维基教科书](https://en.wikibooks.org/wiki/LaTeX)	[ LaTeX 知识库](https://www.latexstudio.net/LearnLaTeX/)	
+
+LaTeX写国际音标表(IPA)： [用LaTeX写国际音标表(IPA) ](https://zhuanlan.zhihu.com/p/33739821)  [使用LaTeX编辑英文国际音标 ](https://zhuanlan.zhihu.com/p/199284523)		
+
+[使用Markdown输出LaTex数学公式 - 知乎](https://zhuanlan.zhihu.com/p/59412540)	 [快速入手LaTeX](https://www.zhihu.com/question/268569440)	
+
+## 在线公式编辑器
+
 [Equation Editor for online mathematics - create, integrate and download](https://editor.codecogs.com/)	
 
-[数学公式_全部_第1页 - LaTeX工作室](https://wenda.latexstudio.net/c-11)	[数学公式识别神器—Mathpix Snip - 知乎](https://zhuanlan.zhihu.com/p/63918634)	[MathType中文网站-MathType数学公式编辑器下载,MathType教程](https://www.mathtype.cn/)	[使用Markdown输出LaTex数学公式 - 知乎](https://zhuanlan.zhihu.com/p/59412540)	
-
-[在线LaTeX公式编辑器-编辑器](https://www.latexlive.com/##)	[LatexEasy | 在线Latex数学公式编辑和渲染](https://latexeasy.com/zh)	
+在线编辑器： [latex在线编辑器_百度搜索](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=latex%E5%9C%A8%E7%BA%BF%E7%BC%96%E8%BE%91%E5%99%A8&oq=%255Cfrac&rsv_pq=bc1e6ef80004677f&rsv_t=09eelri%2BJh2LrfRUH87hqDuigyskOZTON7zwEfA23jaQEi5v8bvXlhi6hGs&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_sug3=11&rsv_sug1=10&rsv_sug7=100&sug=latex%25E5%259C%25A8%25E7%25BA%25BF%25E7%25BC%2596%25E8%25BE%2591%25E5%2599%25A8&rsv_n=1&bs=%5Cfrac)	 [在线LaTeX编辑器](https://www.latexlive.com/)  [LatexAi](http://www.latexai.com/)   [TeXPage](https://www.texpage.com/zh/)	 [LaTeX编辑器](https://www.keepresearch.com/login) 	 [Overleaf](https://cn.overleaf.com/)		 [FlyLaTeX ](https://www.flylatex.cn/)	[LatexEasy | 在线Latex数学公式编辑和渲染](https://latexeasy.com/zh)	
 
 
+
+## 在线协作式 LaTeX 编辑器
+
+[Overleaf, 在线LaTeX编辑器](https://cn.overleaf.com/register)	  [ LaTeX 编辑器](https://www.zhihu.com/question/19954023/answer/23121933)	[LaTeX排版系统 ](https://www.oschina.net/project/tag/350/latex)	
+
+Overleaf - 在线协作式 LaTeX 编辑器
+
+## 模板
+
+[myttian/whu-thesis: :memo武汉大学毕业论文 LaTeX 模版 2020](https://github.com/myttian/whu-thesis#%E6%9C%AC%E5%9C%B0%E7%BC%96%E8%AF%91)	[whutug/whu-thesis: 武汉大学毕业论文 LaTeX 模版 2025](https://github.com/whutug/whu-thesis)	[stone-zeng/fduthesis: LaTeX thesis template for Fudan University](https://github.com/stone-zeng/fduthesis)	
+
+[南京大学学位论文XeLaTeX模板](https://github.com/Haixing-Hu/nju-thesis)	
+
+[耿楠老师 Beamer 制作的《C++面向对象程序设计》课件 ](https://latexstudio.net/archives/51805.html)	
+
+​	 
 
 # 变量
 
