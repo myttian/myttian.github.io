@@ -40,7 +40,7 @@ autohotkey参考手册：[官方文档](https://wyagd001.github.io/zh-cn/docs/Au
 >       return
 > 5. 
 
-
+图标：[MarkDown支持Emoji表情](https://www.cnblogs.com/wutongxue132/p/16684085.html)  [Emoji图标网站](https://www.cnblogs.com/tomorgenCheng/p/18899558) [Apifox Markdown](https://markdown.apifox.cn/)  [图标和表情符号](https://developer.aliyun.com/article/1006350)   [Markdown图标、徽标、符号](https://igoutu.cn/icons/set/markdown)  
 
 图书
 
