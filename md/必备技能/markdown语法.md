@@ -1,7 +1,5 @@
 [微信 Markdown 编辑器](https://md.doocs.org/)	[WeChat Markdown Editor：微信Markdown编辑器](https://www.ahhhhfs.com/69322/)	
 
-[Jekyll-yaml front matter](https://blog.csdn.net/FeeLang/article/details/127015390) [YAML front matter ——Obsidian](https://zhuanlan.zhihu.com/p/599096662) [YAML Front Matter](https://www.cnblogs.com/kaiye/archive/2013/04/24/3039346.html) [YAML 与 front-matter](https://www.cnblogs.com/mtcnn/p/9421015.html?ivk_sa=1024320u) 
-
 [Typora 的 Markdown 语法](https://support.typoraio.cn/zh/Markdown-Reference/) [Typora Support](https://support.typoraio.cn/YAML/)
 
 [obsidian](https://www.bilibili.com/video/BV1YB4y1q7PG/?spm_id_from=333.337.search-card.all.click&vd_source=7346303e5e18677d7261c2c0c109ecfd) [Hexo](https://www.bilibili.com/video/BV1Gt411z78z/?spm_id_from=333.337.search-card.all.click&vd_source=7346303e5e18677d7261c2c0c109ecfd) [在Markdown中处理纯文本属性与元数据](https://www.bilibili.com/video/BV1tN4y1m7hU/?spm_id_from=333.337.search-card.all.click&vd_source=7346303e5e18677d7261c2c0c109ecfd) 
@@ -17,6 +15,8 @@ typora+图床：[ Typora+PicGo图床配置](https://blog.csdn.net/weixin_5083942
 typora：[Typora字体颜色设置的3种方案](https://blog.csdn.net/liulei952413829/article/details/114670380?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-114670380-blog-125280276.pc_relevant_3mothn_strategy_and_data_recovery&spm=1001.2101.3001.4242.1&utm_relevant_index=3)  [autohotkey换颜色](https://blog.csdn.net/qq_37759113/article/details/125280276)  [AutoHotkey](https://blog.csdn.net/Netceor/article/details/119811861?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~Rate-3-119811861-blog-125280276.pc_relevant_3mothn_strategy_and_data_recovery&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~Rate-3-119811861-blog-125280276.pc_relevant_3mothn_strategy_and_data_recovery&utm_relevant_index=6)  
 
 autohotkey参考手册：[官方文档](https://wyagd001.github.io/zh-cn/docs/AutoHotkey.htm) [AutoHotkey中文手册](https://ahkcn.sourceforge.net/docs/AutoHotkey.htm) [autohotkey参考](https://www.jianshu.com/p/b430f59387e8)  [AutoHotkey 快速入门](https://www.bilibili.com/video/BV1Xk4y1q7EL/?spm_id_from=333.337.search-card.all.click&vd_source=7346303e5e18677d7261c2c0c109ecfd)  [AutoGUI来学习AutoHotkey](https://www.bilibili.com/video/BV1mU4y1A7FE/?spm_id_from=333.788.recommend_more_video.7&vd_source=7346303e5e18677d7261c2c0c109ecfd) [AutoAHK中文社区](https://www.autoahk.com/) [安装后文件说明](https://www.bilibili.com/video/BV1Z741177j8/?spm_id_from=333.337.search-card.all.click&vd_source=7346303e5e18677d7261c2c0c109ecfd) [autoit脚本编程办公自动化](https://www.bilibili.com/video/BV127411F75C/?spm_id_from=333.788.recommend_more_video.10&vd_source=7346303e5e18677d7261c2c0c109ecfd)  [河许人](https://space.bilibili.com/38020172/video) 
+
+ [markdown图片并排](https://www.jianshu.com/p/c37f200c0d9c) 
 
 > 1. 基础
 >    1. ; 注释	 win = #   ahk与窗口相关的命令大多win开头	Ctrl = ^	Alt = !	Shift = +	转义：反引号     逗号分隔命令不同参数
@@ -48,6 +48,14 @@ autohotkey参考手册：[官方文档](https://wyagd001.github.io/zh-cn/docs/Au
 
 [typora自动排序标题](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=typora自动排序标题&rn=20&oq=typora%E6%9C%89%E5%BA%8F%E5%88%97%E8%A1%A8%E4%B8%8D%E8%83%BD%E7%94%A8%E6%A0%87%E9%A2%98&rsv_pq=a4deac6800080566&rsv_t=b9cbow%2F3DSnpxddfRTPUPYtgeoyGrHhkEupCLhR8RMdY9fQp%2BLS3F6yUt6w&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_sug3=27&rsv_sug1=9&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&inputT=9056&rsv_sug4=158662) [Typora 标题的自动编号](https://blog.51cto.com/u_2930144/3864611) [typora设置标题自动编号](https://blog.csdn.net/juluwangriyue/article/details/125467325) [Typora自动排序的标题](https://blog.csdn.net/cw616729/article/details/108877240) [Typora 设置标题自动编号](https://blog.csdn.net/u012318074/article/details/123948859) [Hexo + Butterfly 从零开始搭建个人博客](https://blog.csdn.net/qq_41356250/article/details/125830994)
 
+# Front matter
+
+[Jekyll-yaml front matter](https://blog.csdn.net/FeeLang/article/details/127015390) [YAML front matter ——Obsidian](https://zhuanlan.zhihu.com/p/599096662) [YAML Front Matter](https://www.cnblogs.com/kaiye/archive/2013/04/24/3039346.html) [YAML 与 front-matter](https://www.cnblogs.com/mtcnn/p/9421015.html?ivk_sa=1024320u) 
+
+[Front-matter | Hexo](https://hexo.io/zh-cn/docs/front-matter.html)	 [hexo博客front-matter格式](https://www.cnblogs.com/luckforefforts/p/13642702.html)	[hexo博客front-matter格式_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=hexo%E5%8D%9A%E5%AE%A2front-matter%E6%A0%BC%E5%BC%8F)	 [Hexo博客教程](https://cloud.tencent.com/developer/article/1662733)	 [Front-matter ](https://www.baidu.com/s?ie=UTF-8&wd=Front-matter%20%E6%98%AF%E6%96%87%E4%BB%B6%E6%9C%80%E4%B8%8A%E6%96%B9%E4%BB%A5%20---%20%E5%88%86%E9%9A%94%E7%9A%84%E5%8C%BA%E5%9F%9F%EF%BC%8C%E7%94%A8%E4%BA%8E%E6%8C%87%E5%AE%9A%E4%B8%AA%E5%88%AB%E6%96%87%E4%BB%B6%E7%9A%84%E5%8F%98%E9%87%8F%EF%BC%8C%E4%B8%BE%E4%BE%8B%E6%9D%A5%E8%AF%B4)	
+
+[YAML Front Matter用途](https://juejin.cn/post/7369517075800555532)  [markdown yaml front matter_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=markdown%20yaml%20front%20matter)		
+
 # LaTeX
 
 
@@ -58,7 +66,13 @@ autohotkey参考手册：[官方文档](https://wyagd001.github.io/zh-cn/docs/Au
 
 [论文写作的又一利器：VSCode + Latex Workshop + MikTex + Git](https://blog.csdn.net/yinqingwang/article/details/79684419?spm=1001.2101.3001.4242)	
 
-安装： [Windows10系统下LaTeX的安装及使用](https://zhuanlan.zhihu.com/p/37994589)	[怎么安装LaTex](https://zhuanlan.zhihu.com/p/56982388)	[搭建 LaTeX 舒适写作环境（VSCode） ](https://zhuanlan.zhihu.com/p/139210056)	[Visual Studio Code 配置 Latex环境 ](https://blog.djinguo.com/2018-11-30/latexVScode/)	[在Win7上安装TexLive及设置XeLaTeX的整个过程](https://blog.csdn.net/RobertChenGuangzhi/article/details/48106893)	
+## 安装
+
+[Windows10系统下LaTeX的安装及使用](https://zhuanlan.zhihu.com/p/37994589)	[怎么安装LaTex](https://zhuanlan.zhihu.com/p/56982388)	[搭建 LaTeX 舒适写作环境（VSCode） ](https://zhuanlan.zhihu.com/p/139210056)	[Visual Studio Code 配置 Latex环境 ](https://blog.djinguo.com/2018-11-30/latexVScode/)	[在Win7上安装TexLive及设置XeLaTeX的整个过程](https://blog.csdn.net/RobertChenGuangzhi/article/details/48106893)	
+
+[配置Latex环境：Tex Live+Winedt](https://zhuanlan.zhihu.com/p/27429538884)	[TeX Live_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=TeX%20Live)	
+
+[LaTeX安装 & 宏包升级 - 知乎](https://zhuanlan.zhihu.com/p/210303123)	
 
 ## markdown公式
 
@@ -98,13 +112,59 @@ KaTeX 是一个快速、易于使用的 JavaScript 库，用于在网络上进�
 
 TeX : [TeX（文本排版系统）_百度百科](https://baike.baidu.com/item/TeX/3794463?fr=aladdin)	
 
-[MathJax语法总结](https://www.cnblogs.com/blknemo/p/16745637.html)  [mathjax编写数学 — MathJax 3.2 文档](https://www.osgeo.cn/mathjax/basic/mathematics.html)	 [LaTeX2e 完全学习手册](https://www.latexstudio.net/hulatex/index.htm)	[学习文档 - LaTeX工作室](https://www.latexstudio.net/archives/51802)	[LaTeX2e 文类和宏包学习手册_百度搜索](https://www.baidu.com/s?wd=LaTeX2e%20%E6%96%87%E7%B1%BB%E5%92%8C%E5%AE%8F%E5%8C%85%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C&pn=10&oq=LaTeX2e%20%E6%96%87%E7%B1%BB%E5%92%8C%E5%AE%8F%E5%8C%85%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C&ie=utf-8&rsv_page=1)	[LaTeX 绘图指南TikZ](https://www.latexstudio.net/archives/51577.html)	[LaTeX2e插图指南](https://www.latexstudio.net/archives/10738)	[以 Markdown 撰写文稿，以 LaTeX 排版](https://www.latexstudio.net/archives/51808.html)	 [以 Markdown 撰写文稿，以 LaTeX 排版 ](https://liam.page/2020/03/30/writing-manuscript-in-Markdown-and-typesetting-with-LaTeX/)	
+帮助： [好：帮助文档](https://www.latexlive.com/help)   [好：MathJax语法总结](https://www.cnblogs.com/blknemo/p/16745637.html)  	[LaTeX - 维基教科书](https://en.wikibooks.org/wiki/LaTeX)	[ LaTeX 知识库](https://www.latexstudio.net/LearnLaTeX/)	
 
-帮助： [帮助文档](https://www.latexlive.com/help) 	[LaTeX - 维基教科书](https://en.wikibooks.org/wiki/LaTeX)	[ LaTeX 知识库](https://www.latexstudio.net/LearnLaTeX/)	
+
+
+[mathjax编写数学 — MathJax 3.2 文档](https://www.osgeo.cn/mathjax/basic/mathematics.html)	 [LaTeX2e 完全学习手册](https://www.latexstudio.net/hulatex/index.htm)	[学习文档 - LaTeX工作室](https://www.latexstudio.net/archives/51802)	[LaTeX2e 文类和宏包学习手册_百度搜索](https://www.baidu.com/s?wd=LaTeX2e%20%E6%96%87%E7%B1%BB%E5%92%8C%E5%AE%8F%E5%8C%85%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C&pn=10&oq=LaTeX2e%20%E6%96%87%E7%B1%BB%E5%92%8C%E5%AE%8F%E5%8C%85%E5%AD%A6%E4%B9%A0%E6%89%8B%E5%86%8C&ie=utf-8&rsv_page=1)	[LaTeX 绘图指南TikZ](https://www.latexstudio.net/archives/51577.html)	[LaTeX2e插图指南](https://www.latexstudio.net/archives/10738)	[以 Markdown 撰写文稿，以 LaTeX 排版](https://www.latexstudio.net/archives/51808.html)	 [以 Markdown 撰写文稿，以 LaTeX 排版 ](https://liam.page/2020/03/30/writing-manuscript-in-Markdown-and-typesetting-with-LaTeX/)	
 
 LaTeX写国际音标表(IPA)： [用LaTeX写国际音标表(IPA) ](https://zhuanlan.zhihu.com/p/33739821)  [使用LaTeX编辑英文国际音标 ](https://zhuanlan.zhihu.com/p/199284523)		
 
 [使用Markdown输出LaTex数学公式 - 知乎](https://zhuanlan.zhihu.com/p/59412540)	 [快速入手LaTeX](https://www.zhihu.com/question/268569440)	
+
+```bash
+\		转义
+1.符号
+\times 乘   \div 除
+
+2.运算
+分数： \tfrac{2}{4}x = 0.5x 或 {2 \over 4}x=0.5x
+
+3.上下标
+上： a^{x+3}
+下： a_2
+
+4.括号
+小括号： \left (3\right)
+中括号： \left [3\right]
+大括号： \left \{8\right\} 
+
+5.矩阵
+\\ 换行，& 分割同一行的矩阵元素
+\begin{bmatrix}
+  1&2&6 \\
+  1&2&6 \\
+  1&2&6
+\end{bmatrix}
+
+6.背景颜色
+{\color{Orange} 88}
+\colorbox{yellow}{Thistext}			第一个参数为颜色，第二个颜色为文本内容
+数学环境中使用\colorbox{}{}，第二个参数内加入$\displaystyle + 公式$
+\colorbox{yellow}{$\displaystyle \frac{a}{b}$}
+
+7.字号
+{\huge 巨大}
+
+8.LaTeX环境
+以\begin{environments}开始，\end{environments}结束
+\begin{align}多行公式环境，环境内所有公式默认右对齐，由amsmath提供
+
+9.TeX扩展包
+physics扩展包
+```
+
+
 
 ## 在线公式编辑器
 
@@ -126,9 +186,55 @@ Overleaf - 在线协作式 LaTeX 编辑器
 
 [南京大学学位论文XeLaTeX模板](https://github.com/Haixing-Hu/nju-thesis)	
 
-[耿楠老师 Beamer 制作的《C++面向对象程序设计》课件 ](https://latexstudio.net/archives/51805.html)	
+[耿楠老师 Beamer 制作的《C++面向对象程序设计》课件 ](https://latexstudio.net/archives/51805.html)
 
-​	 
+## 宏包
+
+[latex常用的宏包](https://www.cnblogs.com/shangstacey/p/13253295.html)	 [LaTeX 常用宏包](https://chunyu.site/packages/)	[9 个宏包](https://bbs.pinggu.org/forum.php?mod=viewthread&tid=3183687)	
+
+### accounting
+
+[latex写会计分录_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=latex%E5%86%99%E4%BC%9A%E8%AE%A1%E5%88%86%E5%BD%95)	[ T-Account scheme ](https://tex.stackexchange.com/questions/351403/accounting-t-account-scheme)	
+
+LaTeX中制作会计分录通常可以使用`accounting`宏包来实现。这个宏包提供了方便的命令来创建格式化的会计分录表
+
+1、安装和引入宏包
+
+首先，确保你的LaTeX系统已经安装了`accounting`宏包。如果你使用的是TeX Live或MacTeX，通常这个宏包已经预装了。然后，在文档的导言区（preamble）引入这个宏包：
+
+```latex
+\documentclass{article}
+\usepackage{accounting} % 引入accounting宏包\begin{document}
+```
+
+2、创建会计分录
+
+使用`\begin{accSplit}`和`\end{accSplit}`环境来创建会计分录。在这个环境中，你可以使用`\begin{DlrColumns}`和`\end{DlrColumns}`来分别定义借方和贷方的列。
+
+```latex
+\begin{accSplit}
+    \begin{DlrColumns}
+        \textbf{借方} & \textbf{贷方} \\
+        \multicolumn{2}{c}{\textbf{会计分录标题}} \\ % 可选：分录标题
+    \end{DlrColumns}
+    
+    \begin{DlrColumns}
+        应收账款 & \\ % 第一行，借方部分
+        & 销售收入 \\ % 第一行，贷方部分
+    \end{DlrColumns}
+    
+    \begin{DlrColumns}
+        销售收入 & \\ % 第二行，借方部分
+        & 应收账款 \\ % 第二行，贷方部分
+    \end{DlrColumns}
+    
+    % 可以继续添加更多的分录行...
+\end{accSplit}
+```
+
+3、编译文档
+
+将上述代码保存为`.tex`文件，然后使用LaTeX编译器编译。如果你使用的是TeX Live或MacTeX，可以在命令行中使用`pdflatex yourfile.tex`来编译文档（将`yourfile.tex`替换为你的文件名）。
 
 # 变量
 
