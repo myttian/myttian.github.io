@@ -175,6 +175,10 @@ FAQ：
 
 `git clone git@github.com:myttian/gittest.git` 
 
+## 技巧
+
+[同时在本地使用多个github账号进行github仓库管理](https://blog.csdn.net/Mocode/article/details/149104592)  
+
 ## 常见问题
 
 > push推送时：failed to push some refs to 'github.com:myttian/gittest.git'
