@@ -16,7 +16,7 @@ typora：[Typora字体颜色设置的3种方案](https://blog.csdn.net/liulei952
 
 autohotkey参考手册：[官方文档](https://wyagd001.github.io/zh-cn/docs/AutoHotkey.htm) [AutoHotkey中文手册](https://ahkcn.sourceforge.net/docs/AutoHotkey.htm) [autohotkey参考](https://www.jianshu.com/p/b430f59387e8)  [AutoHotkey 快速入门](https://www.bilibili.com/video/BV1Xk4y1q7EL/?spm_id_from=333.337.search-card.all.click&vd_source=7346303e5e18677d7261c2c0c109ecfd)  [AutoGUI来学习AutoHotkey](https://www.bilibili.com/video/BV1mU4y1A7FE/?spm_id_from=333.788.recommend_more_video.7&vd_source=7346303e5e18677d7261c2c0c109ecfd) [AutoAHK中文社区](https://www.autoahk.com/) [安装后文件说明](https://www.bilibili.com/video/BV1Z741177j8/?spm_id_from=333.337.search-card.all.click&vd_source=7346303e5e18677d7261c2c0c109ecfd) [autoit脚本编程办公自动化](https://www.bilibili.com/video/BV127411F75C/?spm_id_from=333.788.recommend_more_video.10&vd_source=7346303e5e18677d7261c2c0c109ecfd)  [河许人](https://space.bilibili.com/38020172/video) 
 
- [markdown图片并排](https://www.jianshu.com/p/c37f200c0d9c) 
+[markdown图片并排](https://www.jianshu.com/p/c37f200c0d9c) 
 
 > 1. 基础
 >    1. ; 注释	 win = #   ahk与窗口相关的命令大多win开头	Ctrl = ^	Alt = !	Shift = +	转义：反引号     逗号分隔命令不同参数
