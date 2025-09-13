@@ -529,11 +529,40 @@ Git工作流‌指==代码管理的工作流程==和方式，主要用于多人�
 
 [ssh-agent_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=ssh-agent)  [如何用 SSH 密钥在一台机器上管理多个 GitHub 账户](https://www.freecodecamp.org/chinese/news/manage-multiple-github-accounts-the-ssh-way)  
 
+1. 申请多个github账户
+2. `.ssh/config` 配置文件设置多账户    
+   1. 参考：  [git同时管理多个账号](https://blog.csdn.net/Mocode/article/details/149104592)  
+   2. `git remote set-url origin  git@movie:movie/learn.git`
+   3. 测试github账号的连接是否生效
+3. sourcetree设置
+   1. 工具-选项里取消默认用户信息
+   2. 仓库设置-用户信息，取消全局用户配置，用户名登录
+
+## github仓库
+
+1. github下新建一个仓库，不添加README
+2. 在sourcetree里clone： `git@github.com:movie/aaa1000.git`
+3. 在本地仓库创建一文件，main分支就出现了，然后用Git工作流创建分支
+
 ## git配置文件
 
 [同时在本地使用多个github账号进行github仓库管理](https://blog.csdn.net/Mocode/article/details/149104592)   
 
 [解锁 SSH config文件的神仙用法](https://blog.csdn.net/qq_14829643/article/details/150234843)  
+
+```
+Host myttian
+  HostName github.com
+  User root
+  IdentityFile ~/.ssh/id_rsa
+
+Host movie107
+  HostName github.com
+  User root
+  IdentityFile ~/.ssh/id_rsa_movie107
+```
+
+
 
 ## 常用git命令
 
