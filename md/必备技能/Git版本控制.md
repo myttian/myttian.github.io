@@ -173,11 +173,7 @@ FAQ：
 
 先创建远程库，然后，从远程库克隆一个本地库
 
-`git clone git@github.com:myttian/gittest.git` 
-
-## 技巧
-
-[同时在本地使用多个github账号进行github仓库管理](https://blog.csdn.net/Mocode/article/details/149104592)  
+`git clone git@github.com:myttian/gittest.git`  
 
 ## 常见问题
 
@@ -246,7 +242,7 @@ git branch -a				# 查看本地和远程所有分支
 
 
 
-**分支管理策略**： 
+## 分支管理策略 
 
 合并分支时，加上`--no-ff`参数就可以用普通模式合并，合并后的历史有分支，能看出来曾经做过合并，而`fast forward`合并就看不出来曾经做过合并。 `git merge --no-ff -m "merge with no-ff" dev`
 
@@ -532,6 +528,18 @@ Git工作流‌指==代码管理的工作流程==和方式，主要用于多人�
 ## 多账户管理密钥
 
 [ssh-agent_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=ssh-agent)  [如何用 SSH 密钥在一台机器上管理多个 GitHub 账户](https://www.freecodecamp.org/chinese/news/manage-multiple-github-accounts-the-ssh-way)  
+
+## git配置文件
+
+[同时在本地使用多个github账号进行github仓库管理](https://blog.csdn.net/Mocode/article/details/149104592)   
+
+[解锁 SSH config文件的神仙用法](https://blog.csdn.net/qq_14829643/article/details/150234843)  
+
+## 常用git命令
+
+[Git remote](https://blog.csdn.net/wzt001005/article/details/145757063)    [远程仓库git remote](https://blog.csdn.net/m0_59289695/article/details/135580942)  
+
+[在SSH 中使用 - T 参数的说明](https://zsyyblog.com/7ab5f4a6.html#%E5%8F%82%E6%95%B0%E8%AF%B4%E6%98%8E)  
 
 # 可视化管理工具
 
