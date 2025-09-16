@@ -53,14 +53,16 @@
             color: 'rgb(90,90,90)',
             language: 'chinese'
         },	
+		//更新时间
+		timeUpdater: {
+			text: ">最后更新时间: {docsify-updated}",
+			formatUpdated: "{YYYY}/{MM}/{DD}",
+			whereToPlace: "top",  // "top" or "bottom", default to "bottom"
+		},
 		//自定义插件支持文本高亮
 		plugins: [function(hook) {
 			hook.beforeEach(html => {
-				html = html.replace(/==(.+?)==/g, '<span class="highlighttext">$1</span>');
-				//将更新时间加到文档的最顶部
-				return '> Last Modified: {docsify-updated}'
-						+ '\n----\n'
-						+ html;
+				return  html.replace(/==(.+?)==/g, '<span class="highlighttext">$1</span>');				
 				});
 			}]
     }
