@@ -1,6 +1,6 @@
 [Git教程 - 廖雪峰](https://liaoxuefeng.com/books/git/introduction/index.html)	 
 
-[markdown文件能版本控制吗_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=markdown%E6%96%87%E4%BB%B6%E8%83%BD%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E5%90%97)	
+[markdown文件能版本控制吗_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=markdown%E6%96%87%E4%BB%B6%E8%83%BD%E7%89%88%E6%9C%AC%E6%8E%A7%E5%88%B6%E5%90%97)	 [Git学习笔记](https://www.cnblogs.com/1693977889zz/p/10802779.html)  
 
 集中式版本控制系统： CVS、SVN 
 
