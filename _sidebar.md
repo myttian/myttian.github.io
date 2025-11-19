@@ -40,6 +40,7 @@
     * [windows程序设计](/md/编程语言/Windows程序设计/windows程序设计)
   * 脚本
     * [LUA](/md/编程语言/脚本/LUA脚本)
+    * [AutoHotkey](/md/编程语言/脚本/AutoHotkey)
   * 服务器端脚本语言
     * [PHP入门](/md/编程语言/服务器端脚本语言/PHP教程)
     * [Ruby入门](/md/编程语言/服务器端脚本语言/Ruby入门)

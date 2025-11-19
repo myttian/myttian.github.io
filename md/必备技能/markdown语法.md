@@ -66,6 +66,8 @@ autohotkey参考手册：[官方文档](https://wyagd001.github.io/zh-cn/docs/Au
 
 [论文写作的又一利器：VSCode + Latex Workshop + MikTex + Git](https://blog.csdn.net/yinqingwang/article/details/79684419?spm=1001.2101.3001.4242)	
 
+[好：Latex 篇 ](https://zhuanlan.zhihu.com/p/720441726)  [优雅地输入LaTeX公式](https://zhuanlan.zhihu.com/p/531591547)  
+
 ## 安装
 
 [Windows10系统下LaTeX的安装及使用](https://zhuanlan.zhihu.com/p/37994589)	[怎么安装LaTex](https://zhuanlan.zhihu.com/p/56982388)	[搭建 LaTeX 舒适写作环境（VSCode） ](https://zhuanlan.zhihu.com/p/139210056)	[Visual Studio Code 配置 Latex环境 ](https://blog.djinguo.com/2018-11-30/latexVScode/)	[在Win7上安装TexLive及设置XeLaTeX的整个过程](https://blog.csdn.net/RobertChenGuangzhi/article/details/48106893)	
@@ -172,7 +174,7 @@ physics扩展包
 
 在线编辑器： [latex在线编辑器_百度搜索](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=latex%E5%9C%A8%E7%BA%BF%E7%BC%96%E8%BE%91%E5%99%A8&oq=%255Cfrac&rsv_pq=bc1e6ef80004677f&rsv_t=09eelri%2BJh2LrfRUH87hqDuigyskOZTON7zwEfA23jaQEi5v8bvXlhi6hGs&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_sug3=11&rsv_sug1=10&rsv_sug7=100&sug=latex%25E5%259C%25A8%25E7%25BA%25BF%25E7%25BC%2596%25E8%25BE%2591%25E5%2599%25A8&rsv_n=1&bs=%5Cfrac)	 [在线LaTeX编辑器](https://www.latexlive.com/)  [LatexAi](http://www.latexai.com/)   [TeXPage](https://www.texpage.com/zh/)	 [LaTeX编辑器](https://www.keepresearch.com/login) 	 [Overleaf](https://cn.overleaf.com/)		 [FlyLaTeX ](https://www.flylatex.cn/)	[LatexEasy | 在线Latex数学公式编辑和渲染](https://latexeasy.com/zh)	
 
-
+[数学公式识别工具mathpix](https://blog.csdn.net/hqllqh/article/details/123063480)  [LaTeX公式编辑器](https://soft.3dmgame.com/down/256393.html)    
 
 ## 在线协作式 LaTeX 编辑器
 
