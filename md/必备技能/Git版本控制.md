@@ -529,6 +529,10 @@ Git工作流‌指==代码管理的工作流程==和方式，主要用于多人�
 
 [ssh-agent_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=ssh-agent)  [如何用 SSH 密钥在一台机器上管理多个 GitHub 账户](https://www.freecodecamp.org/chinese/news/manage-multiple-github-accounts-the-ssh-way)  
 
+[一台电脑上配置不同的仓库](https://blog.csdn.net/qq_43813351/article/details/130986744)  
+
+[git config配置文件_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=git%20config%E9%85%8D%E7%BD%AE%E6%96%87%E4%BB%B6)  [初次运行 Git 前的配置](https://git-scm.com/book/zh/v2/%E8%B5%B7%E6%AD%A5-%E5%88%9D%E6%AC%A1%E8%BF%90%E8%A1%8C-Git-%E5%89%8D%E7%9A%84%E9%85%8D%E7%BD%AE)  [Git的特殊配置文件](https://blog.csdn.net/K346K346/article/details/143307956) [Git配置文件](https://www.cnblogs.com/shujk/p/12443239.html)   
+
 1. 申请多个github账户
 2. `.ssh/config` 配置文件设置多账户    
    1. 参考：  [git同时管理多个账号](https://blog.csdn.net/Mocode/article/details/149104592)  

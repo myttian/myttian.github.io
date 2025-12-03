@@ -14,9 +14,65 @@ typora+图床：[ Typora+PicGo图床配置](https://blog.csdn.net/weixin_5083942
 
 typora：[Typora字体颜色设置的3种方案](https://blog.csdn.net/liulei952413829/article/details/114670380?utm_medium=distribute.pc_relevant.none-task-blog-2~default~baidujs_baidulandingword~default-0-114670380-blog-125280276.pc_relevant_3mothn_strategy_and_data_recovery&spm=1001.2101.3001.4242.1&utm_relevant_index=3)  [autohotkey换颜色](https://blog.csdn.net/qq_37759113/article/details/125280276)  [AutoHotkey](https://blog.csdn.net/Netceor/article/details/119811861?spm=1001.2101.3001.6650.3&utm_medium=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~Rate-3-119811861-blog-125280276.pc_relevant_3mothn_strategy_and_data_recovery&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2~default~BlogCommendFromBaidu~Rate-3-119811861-blog-125280276.pc_relevant_3mothn_strategy_and_data_recovery&utm_relevant_index=6)  
 
-autohotkey参考手册：[官方文档](https://wyagd001.github.io/zh-cn/docs/AutoHotkey.htm) [AutoHotkey中文手册](https://ahkcn.sourceforge.net/docs/AutoHotkey.htm) [autohotkey参考](https://www.jianshu.com/p/b430f59387e8)  [AutoHotkey 快速入门](https://www.bilibili.com/video/BV1Xk4y1q7EL/?spm_id_from=333.337.search-card.all.click&vd_source=7346303e5e18677d7261c2c0c109ecfd)  [AutoGUI来学习AutoHotkey](https://www.bilibili.com/video/BV1mU4y1A7FE/?spm_id_from=333.788.recommend_more_video.7&vd_source=7346303e5e18677d7261c2c0c109ecfd) [AutoAHK中文社区](https://www.autoahk.com/) [安装后文件说明](https://www.bilibili.com/video/BV1Z741177j8/?spm_id_from=333.337.search-card.all.click&vd_source=7346303e5e18677d7261c2c0c109ecfd) [autoit脚本编程办公自动化](https://www.bilibili.com/video/BV127411F75C/?spm_id_from=333.788.recommend_more_video.10&vd_source=7346303e5e18677d7261c2c0c109ecfd)  [河许人](https://space.bilibili.com/38020172/video) 
+图标：[MarkDown支持Emoji表情](https://www.cnblogs.com/wutongxue132/p/16684085.html)  [Emoji图标网站](https://www.cnblogs.com/tomorgenCheng/p/18899558) [Apifox Markdown](https://markdown.apifox.cn/)  [图标和表情符号](https://developer.aliyun.com/article/1006350)   [Markdown图标、徽标、符号](https://igoutu.cn/icons/set/markdown)  
+
+图书
+
+[github.com](https://github.com/lTbgykio/Books-Free-Books)
+
+[typora自动排序标题](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=typora自动排序标题&rn=20&oq=typora%E6%9C%89%E5%BA%8F%E5%88%97%E8%A1%A8%E4%B8%8D%E8%83%BD%E7%94%A8%E6%A0%87%E9%A2%98&rsv_pq=a4deac6800080566&rsv_t=b9cbow%2F3DSnpxddfRTPUPYtgeoyGrHhkEupCLhR8RMdY9fQp%2BLS3F6yUt6w&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_sug3=27&rsv_sug1=9&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&inputT=9056&rsv_sug4=158662) [Typora 标题的自动编号](https://blog.51cto.com/u_2930144/3864611) [typora设置标题自动编号](https://blog.csdn.net/juluwangriyue/article/details/125467325) [Typora自动排序的标题](https://blog.csdn.net/cw616729/article/details/108877240) [Typora 设置标题自动编号](https://blog.csdn.net/u012318074/article/details/123948859) [Hexo + Butterfly 从零开始搭建个人博客](https://blog.csdn.net/qq_41356250/article/details/125830994)
 
 [markdown图片并排](https://www.jianshu.com/p/c37f200c0d9c) 
+
+# Front matter
+
+[Jekyll-yaml front matter](https://blog.csdn.net/FeeLang/article/details/127015390) [YAML front matter ——Obsidian](https://zhuanlan.zhihu.com/p/599096662) [YAML Front Matter](https://www.cnblogs.com/kaiye/archive/2013/04/24/3039346.html) [YAML 与 front-matter](https://www.cnblogs.com/mtcnn/p/9421015.html?ivk_sa=1024320u) 
+
+[Front-matter | Hexo](https://hexo.io/zh-cn/docs/front-matter.html)	 [hexo博客front-matter格式](https://www.cnblogs.com/luckforefforts/p/13642702.html)	[hexo博客front-matter格式_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=hexo%E5%8D%9A%E5%AE%A2front-matter%E6%A0%BC%E5%BC%8F)	 [Hexo博客教程](https://cloud.tencent.com/developer/article/1662733)	 [Front-matter ](https://www.baidu.com/s?ie=UTF-8&wd=Front-matter%20%E6%98%AF%E6%96%87%E4%BB%B6%E6%9C%80%E4%B8%8A%E6%96%B9%E4%BB%A5%20---%20%E5%88%86%E9%9A%94%E7%9A%84%E5%8C%BA%E5%9F%9F%EF%BC%8C%E7%94%A8%E4%BA%8E%E6%8C%87%E5%AE%9A%E4%B8%AA%E5%88%AB%E6%96%87%E4%BB%B6%E7%9A%84%E5%8F%98%E9%87%8F%EF%BC%8C%E4%B8%BE%E4%BE%8B%E6%9D%A5%E8%AF%B4)	
+
+[YAML Front Matter用途](https://juejin.cn/post/7369517075800555532)  [markdown yaml front matter_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=markdown%20yaml%20front%20matter)
+
+# autohotkey
+
+autohotkey参考手册：[AutoHotkey Documentation](https://www.autohotkey.com/docs/)    [官方文档](https://wyagd001.github.io/zh-cn/docs/AutoHotkey.htm) [AutoHotkey中文手册](https://ahkcn.sourceforge.net/docs/AutoHotkey.htm) [autohotkey参考](https://www.jianshu.com/p/b430f59387e8)  
+
+视频： [Autohotkey从入门到精通](https://www.bilibili.com/video/BV1qJ41167vU/?vd_source=7346303e5e18677d7261c2c0c109ecfd)    [autoit脚本编程办公自动化](https://www.bilibili.com/video/BV127411F75C/?spm_id_from=333.788.recommend_more_video.10&vd_source=7346303e5e18677d7261c2c0c109ecfd)  [河许人](https://space.bilibili.com/38020172/video)  [AutoHotkey 快速入门](https://www.bilibili.com/video/BV1Xk4y1q7EL/?spm_id_from=333.337.search-card.all.click&vd_source=7346303e5e18677d7261c2c0c109ecfd)  [AutoGUI来学习AutoHotkey](https://www.bilibili.com/video/BV1mU4y1A7FE/?spm_id_from=333.788.recommend_more_video.7&vd_source=7346303e5e18677d7261c2c0c109ecfd) [安装后文件说明](https://www.bilibili.com/video/BV1Z741177j8/?spm_id_from=333.337.search-card.all.click&vd_source=7346303e5e18677d7261c2c0c109ecfd)
+
+[变量和函数](https://www.bilibili.com/video/BV1oBsmemEJM/?vd_source=7346303e5e18677d7261c2c0c109ecfd)  
+
+社区：[AutoAHK中文社区](https://www.autoahk.com/)  
+
+指令：[Run/RunWait指令](https://blog.csdn.net/knityster/article/details/2146417)  
+
+基本用法：
+
+1. 热键： `#n::`，win+n
+   1. 
+
+2. 热字串：`::字符串::`
+   1. 用于定义热字串，例`::abc::123`,输入abc后按回车，被替换为123，或写为 `::abc::按回车{123}`
+      1. `*`省略结束符， `:*:abc::123`
+
+   2. 热键映射(u::y)
+
+
+```
+Run： 	Run, Target [, WorkingDir, Max|Min|Hide|UseErrorLevel, OutputVarPID
+		 Run指令用于启动外部程序、打开文件或网址，支持参数设置和窗口状态控制
+Send：   发送模拟键击和鼠标点击到活动窗口
+```
+
+杂项
+
+[ % 用法](https://zhuanlan.zhihu.com/p/20828977)  [ahk中百分号里面的变量名代表什么](https://www.baidu.com/s?ie=UTF-8&wd=ahk%E4%B8%AD%E7%99%BE%E5%88%86%E5%8F%B7%E9%87%8C%E9%9D%A2%E7%9A%84%E5%8F%98%E9%87%8F%E5%90%8D%E4%BB%A3%E8%A1%A8%E4%BB%80%E4%B9%88)  
+
+```
+%	用于变量引用和表达式解析；  %var%	MsgBox, % a + b  ; 显示3
+```
+
+AI写代码
+
+[用ahk写一个每隔1分钟自动将剪贴板内容写入记事本并保存的脚本](https://chat.baidu.com/search?isShowHello=1&replace=1&extParams=%7B%22ori_lid%22%3A%229191093365097264567%22%2C%22enter_type%22%3A%22search_a_tab%22%2C%22subEnterType%22%3A%22his_middle%22%2C%22forceRefresh%22%3A1763780916743%7D)  
 
 > 1. 基础
 >    1. ; 注释	 win = #   ahk与窗口相关的命令大多win开头	Ctrl = ^	Alt = !	Shift = +	转义：反引号     逗号分隔命令不同参数
@@ -38,23 +94,23 @@ autohotkey参考手册：[官方文档](https://wyagd001.github.io/zh-cn/docs/Au
 >       send password{raw}!
 >       send {enter}
 >       return
-> 5. 
 
-图标：[MarkDown支持Emoji表情](https://www.cnblogs.com/wutongxue132/p/16684085.html)  [Emoji图标网站](https://www.cnblogs.com/tomorgenCheng/p/18899558) [Apifox Markdown](https://markdown.apifox.cn/)  [图标和表情符号](https://developer.aliyun.com/article/1006350)   [Markdown图标、徽标、符号](https://igoutu.cn/icons/set/markdown)  
+## 宏录制
 
-图书
+[macro creator_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=macro%20creator)  [录制](https://blog.csdn.net/liteblue/article/details/104811560)  [Download - Pulover's Macro Creator](https://www.macrocreator.com/download/)  [宏录制和自动化脚本创建 ](https://zhuanlan.zhihu.com/p/19772251)  
 
-[github.com](https://github.com/lTbgykio/Books-Free-Books)
+[鼠标宏编程](https://baijiahao.baidu.com/s?id=1849120841594310869&wfr=spider&for=pc)    
 
-[typora自动排序标题](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=typora自动排序标题&rn=20&oq=typora%E6%9C%89%E5%BA%8F%E5%88%97%E8%A1%A8%E4%B8%8D%E8%83%BD%E7%94%A8%E6%A0%87%E9%A2%98&rsv_pq=a4deac6800080566&rsv_t=b9cbow%2F3DSnpxddfRTPUPYtgeoyGrHhkEupCLhR8RMdY9fQp%2BLS3F6yUt6w&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_sug3=27&rsv_sug1=9&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&inputT=9056&rsv_sug4=158662) [Typora 标题的自动编号](https://blog.51cto.com/u_2930144/3864611) [typora设置标题自动编号](https://blog.csdn.net/juluwangriyue/article/details/125467325) [Typora自动排序的标题](https://blog.csdn.net/cw616729/article/details/108877240) [Typora 设置标题自动编号](https://blog.csdn.net/u012318074/article/details/123948859) [Hexo + Butterfly 从零开始搭建个人博客](https://blog.csdn.net/qq_41356250/article/details/125830994)
+## 例子
 
-# Front matter
-
-[Jekyll-yaml front matter](https://blog.csdn.net/FeeLang/article/details/127015390) [YAML front matter ——Obsidian](https://zhuanlan.zhihu.com/p/599096662) [YAML Front Matter](https://www.cnblogs.com/kaiye/archive/2013/04/24/3039346.html) [YAML 与 front-matter](https://www.cnblogs.com/mtcnn/p/9421015.html?ivk_sa=1024320u) 
-
-[Front-matter | Hexo](https://hexo.io/zh-cn/docs/front-matter.html)	 [hexo博客front-matter格式](https://www.cnblogs.com/luckforefforts/p/13642702.html)	[hexo博客front-matter格式_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=hexo%E5%8D%9A%E5%AE%A2front-matter%E6%A0%BC%E5%BC%8F)	 [Hexo博客教程](https://cloud.tencent.com/developer/article/1662733)	 [Front-matter ](https://www.baidu.com/s?ie=UTF-8&wd=Front-matter%20%E6%98%AF%E6%96%87%E4%BB%B6%E6%9C%80%E4%B8%8A%E6%96%B9%E4%BB%A5%20---%20%E5%88%86%E9%9A%94%E7%9A%84%E5%8C%BA%E5%9F%9F%EF%BC%8C%E7%94%A8%E4%BA%8E%E6%8C%87%E5%AE%9A%E4%B8%AA%E5%88%AB%E6%96%87%E4%BB%B6%E7%9A%84%E5%8F%98%E9%87%8F%EF%BC%8C%E4%B8%BE%E4%BE%8B%E6%9D%A5%E8%AF%B4)	
-
-[YAML Front Matter用途](https://juejin.cn/post/7369517075800555532)  [markdown yaml front matter_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=markdown%20yaml%20front%20matter)		
+```
+#n::
+{
+	Run		"notepad"
+	Sleep	2000		;加延时，不然反应不过来
+	Send	"^s"
+}
+```
 
 # LaTeX
 
@@ -75,6 +131,10 @@ autohotkey参考手册：[官方文档](https://wyagd001.github.io/zh-cn/docs/Au
 [配置Latex环境：Tex Live+Winedt](https://zhuanlan.zhihu.com/p/27429538884)	[TeX Live_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=TeX%20Live)	
 
 [LaTeX安装 & 宏包升级 - 知乎](https://zhuanlan.zhihu.com/p/210303123)	
+
+## 公式
+
+[符号、公式与Markdown排版](https://blog.csdn.net/xiaoyuting999/article/details/135077406)  
 
 ## markdown公式
 
