@@ -1,0 +1,6 @@
+total 32624
+drwxr-xr-x 1 spears 197121        0 十月   14 20:14 [0m[01;34m.[0m/
+drwxr-xr-x 1 spears 197121        0 十月    6 13:28 [01;34m..[0m/
+-rw-r--r-- 1 spears 197121        0 十月   14 20:14 dd.txt
+-rwxr-xr-x 1 spears 197121 13288376 十月    1 12:16 [01;32mGoogleJapaneseInputSetup_win10.exe[0m*
+-rw-r--r-- 1 spears 197121 20107358 十月    1 12:26 日语2010版64位.rar

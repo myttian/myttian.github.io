@@ -122,9 +122,19 @@ AI写代码
 
 [论文写作的又一利器：VSCode + Latex Workshop + MikTex + Git](https://blog.csdn.net/yinqingwang/article/details/79684419?spm=1001.2101.3001.4242)	
 
-[好：Latex 篇 ](https://zhuanlan.zhihu.com/p/720441726)  [优雅地输入LaTeX公式](https://zhuanlan.zhihu.com/p/531591547)  
+[好：Latex 篇 ](https://zhuanlan.zhihu.com/p/720441726)  [优雅地输入LaTeX公式](https://zhuanlan.zhihu.com/p/531591547)  [LaTeX](https://cloud.tencent.com/developer/article/1748859)  
+
+[数学运用到的符号](https://www.zhihu.com/question/8854759020/answer/76522531556)  
+
+[学习文档](https://cloud.tencent.com/developer/article/2061090)  
+
+[LaTeX学习笔记](https://www.cnblogs.com/owlman/p/19199330)  
+
+矩阵： [矩阵全家桶](https://blog.csdn.net/weixin_30475039/article/details/96654125)  
 
 ## 安装
+
+软件： [LaTeX 2026](https://www.cnblogs.com/66yy3/p/21335010)  [石用软件](https://shiyrj.top/)  
 
 [Windows10系统下LaTeX的安装及使用](https://zhuanlan.zhihu.com/p/37994589)	[怎么安装LaTex](https://zhuanlan.zhihu.com/p/56982388)	[搭建 LaTeX 舒适写作环境（VSCode） ](https://zhuanlan.zhihu.com/p/139210056)	[Visual Studio Code 配置 Latex环境 ](https://blog.djinguo.com/2018-11-30/latexVScode/)	[在Win7上安装TexLive及设置XeLaTeX的整个过程](https://blog.csdn.net/RobertChenGuangzhi/article/details/48106893)	
 
@@ -226,7 +236,61 @@ LaTeX写国际音标表(IPA)： [用LaTeX写国际音标表(IPA) ](https://zhuan
 physics扩展包
 ```
 
+[多行下标](https://www.cnblogs.com/brightiezhang/p/19001664)   [\left. ](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=%5Cleft%20.&oq=%255Csubstack&rsv_pq=91c98f1e0011b23d&rsv_t=cfc8g9PjD05GVSwP8Qdh%2FzFaNt2mtRMecJPORe4fXHNPqlI5wO8OXGnpxU8&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_sug3=8&rsv_sug1=9&rsv_sug7=100&rsv_btype=t&inputT=3308&rsv_sug4=3309)  
 
+`\left` 和 `\right` 必须成对出现， `\left. \right)`表示不需要左括号
+
+空格： `a\qquad b`双空格， `a\ b`字符空格
+
+换行： `\\` 强制换行
+
+**颜色**
+
+1. 字体颜色：`{\color{Blue}x^2}` ， 需要设置颜色的部分用`{ }`整体扩住，以表明`\color`函数作用范围
+2. 背景颜色： `\colorbox{options}{text}`， 若需要在数学环境中使用`\colorbox{}{}`，第二个参数内加入`$\displaystyle + 公式$`， 例， `colorbox{yellow}{$\displaystyle \frac{a}{b}$}`
+   1. 使用 Bbox扩展 来替换`\colorbox`， `\bbox[options]{math}` ， `\bbox[red,5pt]{x+y}`
+
+**字体字号**
+
+**方程式自动编号**
+
+- 可采用开启AMS宏包的方式获得方程自动编号
+  - 单个方程不希望编号，在指定方程后面添加`\nonumber 或 \tag{} 或 \notag`
+- 默认自动编号只在部分环境中起作用，如`{equation}、{eqnarray}`等
+
+**LaTeX环境**
+
+[解决align每行公式有编号](https://www.zhihu.com/question/477805692/answer/2045084752)  
+
+- 概述
+  - 环境通常是对代码段的整体描述，用于表达此段代码的角色，如，是矩阵？单行公式？多行公式？还是对齐公式等（本页面不支持文档环境），不同的环境起到的作用不同。
+  - 以`\begin{environments}`开始，`\end{environments}`结束
+
+- ==equation==: 方程式， 单行公式环境，只可以输入单行公式，同时`\\`等强制换行命令失效
+  - 如需换行，可使用`\begin{split}`环境进行嵌套，并用`&`调整对齐位置
+
+- ==eqnarray==：多行公式环境，默认右对齐，有缺陷，不推荐
+- ==align==： 多行公式环境，默认右对齐， 排版灵活，多行推荐此环境
+- ==array==： `\begin{array}{|c|l|r|}`数组环境，需手动输入对齐参数
+  - 对齐参数使用`c l r`分别表示居中、居左和居右，如需竖线边框可直接在对齐参数区域输入`|`即可，如需横线边框可使用`\hline`命令
+- aligned: 本身‌**不单独编号**‌；若需编号，应嵌入 `equation` 环境或改用 `align`
+- 矩阵
+  - `pmatrix`：输出圆括号 `( )`，常用于一般矩阵、线性方程组系数矩阵。
+  - `bmatrix`：输出方括号 `[ ]`，最通用的矩阵表示法，线性代数中最常见。
+  - `Bmatrix`：输出花括号 `{ }`，常用于集合、分段函数或特定张量表示。
+  - `matrix`：无定界符，需配合 `\left(` `\right]` 等手动添加括号，或用于无需括号的中间步骤。
+  - `vmatrix`： 单竖线
+  - `Vmatrix`： 双竖线
+
+
+**TeX扩展包**
+
+- AMS宏包
+
+==MathJax 和 LaTeX== 是两个密切相关但定位不同的技术工具，它们共同解决了数学公式在`数字文档`和`网页`中的高质量排版问题
+
+1. LaTeX‌ 是排版系统，擅长处理复杂数学公式和学术文档
+2. MathJax‌ 是一个 JavaScript 引擎，能够在浏览器中渲染用 LaTeX 书写的数学表达式
 
 ## 在线公式编辑器
 
@@ -234,13 +298,19 @@ physics扩展包
 
 在线编辑器： [latex在线编辑器_百度搜索](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=latex%E5%9C%A8%E7%BA%BF%E7%BC%96%E8%BE%91%E5%99%A8&oq=%255Cfrac&rsv_pq=bc1e6ef80004677f&rsv_t=09eelri%2BJh2LrfRUH87hqDuigyskOZTON7zwEfA23jaQEi5v8bvXlhi6hGs&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_sug3=11&rsv_sug1=10&rsv_sug7=100&sug=latex%25E5%259C%25A8%25E7%25BA%25BF%25E7%25BC%2596%25E8%25BE%2591%25E5%2599%25A8&rsv_n=1&bs=%5Cfrac)	 [在线LaTeX编辑器](https://www.latexlive.com/)  [LatexAi](http://www.latexai.com/)   [TeXPage](https://www.texpage.com/zh/)	 [LaTeX编辑器](https://www.keepresearch.com/login) 	 [Overleaf](https://cn.overleaf.com/)		 [FlyLaTeX ](https://www.flylatex.cn/)	[LatexEasy | 在线Latex数学公式编辑和渲染](https://latexeasy.com/zh)	
 
+[LaTeX公式编辑器](https://www.processon.com/latex)  [LatexEasy Editor ](https://latexeasy.com/tool)  [TeXPage](https://www.texpage.com/zh)  
+
 [数学公式识别工具mathpix](https://blog.csdn.net/hqllqh/article/details/123063480)  [LaTeX公式编辑器](https://soft.3dmgame.com/down/256393.html)    
 
 ## 在线协作式 LaTeX 编辑器
 
 [Overleaf, 在线LaTeX编辑器](https://cn.overleaf.com/register)	  [ LaTeX 编辑器](https://www.zhihu.com/question/19954023/answer/23121933)	[LaTeX排版系统 ](https://www.oschina.net/project/tag/350/latex)	
 
-Overleaf - 在线协作式 LaTeX 编辑器
+Overleaf - 在线协作式 LaTeX 编辑器   
+
+[LaTeXSnipper Office插件](https://www.bilibili.com/video/BV1ZWEJ6AEN7/?vd_source=7346303e5e18677d7261c2c0c109ecfd)  
+
+本地编辑器： [WinEdt](https://cloud.tencent.com/developer/article/2069561)  [WinEdt](https://blog.csdn.net/html8/article/details/155129526)   
 
 ## 模板
 
@@ -253,6 +323,8 @@ Overleaf - 在线协作式 LaTeX 编辑器
 ## 宏包
 
 [latex常用的宏包](https://www.cnblogs.com/shangstacey/p/13253295.html)	 [LaTeX 常用宏包](https://chunyu.site/packages/)	[9 个宏包](https://bbs.pinggu.org/forum.php?mod=viewthread&tid=3183687)	
+
+[TikZ_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=TikZ)  [TikZ绘图](https://zhuanlan.zhihu.com/p/7332915530)  [使用tikz绘制深度学习网络图](https://cloud.tencent.com/developer/article/1701687)  [TikZ 画图](https://www.bilibili.com/video/BV1gjGs6QEAC/?vd_source=7346303e5e18677d7261c2c0c109ecfd)  
 
 ### accounting
 
@@ -297,6 +369,28 @@ LaTeX中制作会计分录通常可以使用`accounting`宏包来实现。这个
 3、编译文档
 
 将上述代码保存为`.tex`文件，然后使用LaTeX编译器编译。如果你使用的是TeX Live或MacTeX，可以在命令行中使用`pdflatex yourfile.tex`来编译文档（将`yourfile.tex`替换为你的文件名）。
+
+## 技巧
+
+[Markdown和Latex中文字上下标的方法](https://blog.51cto.com/u_15561675/10770247)  [LaTeX中一些特殊数学公式的编写](https://cloud.tencent.com/developer/article/2161787)  [LaTeX 特殊公式格式笔记](https://zhuanlan.zhihu.com/p/476838702)  
+
+[latex积分号怎么变大](https://zhidao.baidu.com/question/399360473984129365.html)  
+
+[\dfrac_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=%5Cdfrac)  [\cfrac和\dfrac区别](https://www.zhihu.com/question/457761901/answer/3505461377)  
+
+- `\dfrac` : 分子分母较大
+- `\cfrac`：Continued Fraction，专用于连分数，能更好地对齐嵌套的分式结构 
+- `\tfrac`：Text Fraction，强制使用文本样式（比 \frac 更小），用于极度节省空间
+
+矩阵： 
+
+[Markdown输入矩阵方式](https://blog.csdn.net/qq_50930131/article/details/137242387)  
+
+- cases 专门排分段函数或带左大括号的条件式
+- matrix 不带括号，bmatrix 带方括号`[ ]`，其他变体带不同括号
+  - pmatrix 圆括号 ( )、Bmatrix 花括号 { }、vmatrix 单竖线 `| |`（行列式）、Vmatrix 双竖线 `‖ ‖`
+
+[论文符号](https://blog.csdn.net/qq_24059779/article/details/84339167)  
 
 # 变量
 
@@ -402,3 +496,65 @@ for /f "delims=" %%i in ('dir /a /b /on %WORK_DIR%\*.txt') do ( echo %%i)
 [博客园自定义鼠标美化](https://www.cnblogs.com/yyyzyyyz/p/15383875.html)	 [cnblog-mouse_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=cnblog-mouse)	
 
 好的模板： [外部DirectX绘制实现 - lyshark](https://www.cnblogs.com/LyShark/p/17761931.html)	 
+
+# 图表
+
+## mermaid
+
+[文档 | Mermaid 中文网](https://mermaid.nodejs.cn/intro/)   [ Mermaid](https://mermaid.js.org/intro/)   [使用简单的文字描述画UML图的开源工具](https://plantuml.com/zh/)  
+
+[Markdown 图表绘制](https://www.runoob.com/markdown/md-draw.html)  [mermaid ](https://www.kancloud.cn/ui-china/ui-china/3073172)  
+
+可视化编辑器: [PlantUML Web Server](https://www.plantuml.com/plantuml/uml/SyfFKj2rKt3CoKnELR1Io4ZDoSa700001)   [ Mermaid Live Editor](https://mermaid.live/edit#pako:eNpNjr2OwjAQhF_FmoIqiWLn99weJRUlcmOdF4JE7MjYCIjy7phI6Jjqm9XM7s74c4YgcfJ6GthuryxLerI8z1lkG3Zb6Z7ooSyylDsbyOAjZRjJj_ptMb9rCmGgkRRkQkNHHS9BQdkl1SZtD86Nn6Z38TRAHvXlmlycjA60Pev0xH-ErCH_66INkM26AXLGHZKLshA_dVlXXNRdLUSb4QFZdUWfBm3b9rxpOl4tGZ7rzbLou6b8El9eaAxH9Q)  
+
+### 流程图
+
+flowchart 或者  graph
+
+流程图方向
+
+- `TD` 或 `TB`：从上到下
+- `BT`：从下到上
+- `RL`：从右到左
+- `LR`：从左到右
+
+节点形状
+
+- `A[方形]`：矩形
+- `B(圆角矩形)`：圆角矩形
+- `C{菱形}`：菱形（决策）
+- `D((圆形))`：圆形
+- `E>旗帜形]`：旗帜形
+
+连接线类型
+
+- `-->` 实线箭头
+- `-.->` 虚线箭头
+- `==>` 粗实线箭头
+- `--` 实线
+- `-.` 虚线
+
+行注释： `%%`
+
+使用 `"` 将 Unicode 文本括起来
+
+Markdown formatting:  双引号 或 "\`text\`"
+
+为边分配一个 ID:  ID，后跟一个`@` , ` A e1@--> B`
+
+支持 KaTeX ：  [Math Configuration (v10.9.0+) | Mermaid](https://mermaid.js.org/config/math.html)  
+
+****
+
+例：
+
+```
+a --> b & c--> d
+A & B--> C & D
+ A["$$x^2$$"] -->|"$$\sqrt{x+3}$$"| B("$$\frac{1}{2}$$")
+```
+
+## PlantUML
+
+## Graphviz
+
