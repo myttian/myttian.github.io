@@ -14,6 +14,8 @@
 
 笔记： [扩展阅读](https://fishc.com.cn/forum.php?mod=forumdisplay&fid=329&filter=typeid&typeid=571&page=1)   [好：C语言自学笔记](https://www.cnblogs.com/longzhistudy/p/13200310.html)   [C语言万字基础笔记总结](https://cloud.tencent.com/developer/article/1855519)   [笔记](https://blog.csdn.net/Scxioi0/article/details/109827309)  [小甲鱼C语言1-22讲笔记（指针和数组）](https://blog.csdn.net/weixin_65801945/article/details/127436175?spm=1001.2101.3001.6650.13&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-13-127436175-blog-126647259.235%5Ev43%5Epc_blog_bottom_relevance_base8)  
 
+md: [c语言汇总](.\c语言汇总)
+
 # c语言标准
 
 [C语言标准](https://baike.baidu.com/item/C%E8%AF%AD%E8%A8%80/105958) 	
