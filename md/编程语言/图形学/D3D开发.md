@@ -1,3 +1,21 @@
+图形API：  [主流图形API](https://www.bilibili.com/video/BV1Zt4T6nEph/?vd_source=7346303e5e18677d7261c2c0c109ecfd)  
+
+[Vulkan_百度百科](https://baike.baidu.com/item/Vulkan/17543632)  [Metal（技术）_百度百科](https://baike.baidu.com/item/Metal/10917053)  
+
+视觉库： [OpenCV](https://www.baidu.com/s?wd=OpenCV&rsv_spt=1&rsv_iqid=0x9c6337c400026aa9&issp=1&f=8&rsv_bp=1&rsv_idx=2&ie=utf-8&tn=baiduhome_pg&rsv_enter=1&rsv_dl=tb_enter&rsv_sug3=6&rsv_btype=i&inputT=3023&rsv_sug4=3024)  
+
+游戏引擎： [游戏引擎](https://www.bilibili.com/video/BV1rFxi6uEdc/?vd_source=7346303e5e18677d7261c2c0c109ecfd)  
+
+md： [图形开发知识汇总](.\图形开发知识汇总)
+
+| ![](./D3D开发.assets/Snipaste_2026-11-17_16-23-14.jpg) | ![]() |
+| ------------------------------------------------------ | ----- |
+| ![]()                                                  | ![]() |
+| ![]()                                                  | ![]() |
+| ![]()                                                  | ![]() |
+
+
+
 # D3D
 
 [好：DirectX游戏开发_容易理解](https://www.bilibili.com/video/BV17J411U7sp?vd_source=7346303e5e18677d7261c2c0c109ecfd&spm_id_from=333.788.videopod.episodes&p=73)   [好：D3D游戏攻防](https://www.bilibili.com/video/BV1NT4y1g7L1?vd_source=7346303e5e18677d7261c2c0c109ecfd&spm_id_from=333.788.player.switch&p=16)		[Directx3D11](https://www.bilibili.com/video/BV1KC4y1Y7tc/?vd_source=7346303e5e18677d7261c2c0c109ecfd)	   [DirectX9.0](https://www.bilibili.com/video/BV1sA411v7Pe/?vd_source=7346303e5e18677d7261c2c0c109ecfd)	  [D3D游戏攻防](https://www.bilibili.com/video/BV1NT4y1g7L1?vd_source=7346303e5e18677d7261c2c0c109ecfd&spm_id_from=333.788.player.switch&p=4)	[如何绘制3D物体](https://www.bilibili.com/video/BV1qY4y1V79z/?vd_source=7346303e5e18677d7261c2c0c109ecfd)	

@@ -1,173 +1,130 @@
-视频： [小甲鱼C](https://www.bilibili.com/video/av27744141/?vd_source=7346303e5e18677d7261c2c0c109ecfd)  [鱼C论坛](https://fishc.com.cn/thread-1053-1-1.html) [C语言](https://www.bilibili.com/video/BV1WM4m127tq/?vd_source=7346303e5e18677d7261c2c0c109ecfd)  [c](https://www.bilibili.com/video/BV1d14y1M7ir?p=127&vd_source=7346303e5e18677d7261c2c0c109ecfd)  [c学习](https://www.bilibili.com/video/BV16jhWeMEen?p=54&vd_source=7346303e5e18677d7261c2c0c109ecfd)  [c](https://www.bilibili.com/video/BV1d14y1M7ir?p=127&vd_source=7346303e5e18677d7261c2c0c109ecfd)  [C语言教程](https://www.bilibili.com/video/BV1hc411b7YK/?vd_source=7346303e5e18677d7261c2c0c109ecfd)   [C语言](https://www.bilibili.com/video/BV18d4y1a7cV/?vd_source=7346303e5e18677d7261c2c0c109ecfd)    [数据库管理系统](https://www.bilibili.com/video/BV1qk4y1b7QS?p=35&vd_source=7346303e5e18677d7261c2c0c109ecfd)    
+视频： [小甲鱼C](https://www.bilibili.com/video/av27744141/?vd_source=7346303e5e18677d7261c2c0c109ecfd)   [C语言](https://www.bilibili.com/video/BV1WM4m127tq/?vd_source=7346303e5e18677d7261c2c0c109ecfd)  [c](https://www.bilibili.com/video/BV1d14y1M7ir?p=127&vd_source=7346303e5e18677d7261c2c0c109ecfd)  [c学习](https://www.bilibili.com/video/BV16jhWeMEen?p=54&vd_source=7346303e5e18677d7261c2c0c109ecfd)  [c](https://www.bilibili.com/video/BV1d14y1M7ir?p=127&vd_source=7346303e5e18677d7261c2c0c109ecfd)  [C语言教程](https://www.bilibili.com/video/BV1hc411b7YK/?vd_source=7346303e5e18677d7261c2c0c109ecfd)   [C语言](https://www.bilibili.com/video/BV18d4y1a7cV/?vd_source=7346303e5e18677d7261c2c0c109ecfd)    [数据库管理系统](https://www.bilibili.com/video/BV1qk4y1b7QS?p=35&vd_source=7346303e5e18677d7261c2c0c109ecfd)   [1小时学完C语言](https://www.bilibili.com/video/BV1oFnJ6iETe/?spm_id_from=333.788.recommend_more_video.-1&trackid=web_related_0.router-related-2589621-z4htq.1793494643151.504&vd_source=7346303e5e18677d7261c2c0c109ecfd)  [C语言程序设计](https://www.bilibili.com/video/BV1BW411c7cT/?vd_source=7346303e5e18677d7261c2c0c109ecfd&p=32&spm_id_from=333.788.videopod.episodes)  [C++快速入门](https://www.bilibili.com/video/BV1es411j7zv/?spm_id_from=333.788.videopod.episodes&vd_source=7346303e5e18677d7261c2c0c109ecfd&p=12)  
 
-[C语言|菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html)	 [ C语言中文网](https://c.biancheng.net/c/)	
-
-[《带你学C带你飞》【第一季】全套资源 ](https://www.52pojie.cn/thread-1059597-1-1.html#:~:text=%E5%90%BE%E7%88%B1%E7%A0%B4%E8%A7%A3%E6%89%80%E5%8F%91) 
-
-[C++ primer(第五版) 视频](https://www.bilibili.com/video/BV1aw411K7zy/?vd_source=7346303e5e18677d7261c2c0c109ecfd)   [明解C语言](https://www.bilibili.com/video/BV1Va411F7Pg/?vd_source=7346303e5e18677d7261c2c0c109ecfd)  [300集c/c++](https://www.bilibili.com/video/BV1zEnZeBEAT/?vd_source=7346303e5e18677d7261c2c0c109ecfd)    [谭浩强C语言教程小甲鱼](https://www.bilibili.com/video/BV1gT4y1P7yN/?vd_source=7346303e5e18677d7261c2c0c109ecfd)  [C语言做成动画片](https://www.bilibili.com/video/BV1Y9WoeiECa/?spm_id_from=333.788.recommend_more_video.1&vd_source=7346303e5e18677d7261c2c0c109ecfd) 
+ [C++ primer(第五版) 视频](https://www.bilibili.com/video/BV1aw411K7zy/?vd_source=7346303e5e18677d7261c2c0c109ecfd) [明解C语言](https://www.bilibili.com/video/BV1Va411F7Pg/?vd_source=7346303e5e18677d7261c2c0c109ecfd)  [300集c/c++](https://www.bilibili.com/video/BV1zEnZeBEAT/?vd_source=7346303e5e18677d7261c2c0c109ecfd)    [谭浩强C语言教程小甲鱼](https://www.bilibili.com/video/BV1gT4y1P7yN/?vd_source=7346303e5e18677d7261c2c0c109ecfd)  [C语言做成动画片](https://www.bilibili.com/video/BV1Y9WoeiECa/?spm_id_from=333.788.recommend_more_video.1&vd_source=7346303e5e18677d7261c2c0c109ecfd) 
 
 [c++](https://www.bilibili.com/video/BV1Dx4y1g74n?p=2&vd_source=7346303e5e18677d7261c2c0c109ecfd)  [C++](https://www.bilibili.com/video/av374923818/?vd_source=7346303e5e18677d7261c2c0c109ecfd)   [c](https://www.bilibili.com/video/BV1fZ4y1F7Vt/?p=190&vd_source=7346303e5e18677d7261c2c0c109ecfd) 
 
-[TIOBE Index - TIOBE编程语言排行](https://www.tiobe.com/tiobe-index/) 
+----
 
-[C-菜鸟教程](https://www.runoob.com/cprogramming/c-standard-library-stdio-h.html)   
+[C语言|菜鸟教程](https://www.runoob.com/cprogramming/c-tutorial.html)	[C-菜鸟教程](https://www.runoob.com/cprogramming/c-standard-library-stdio-h.html)    [ C语言中文网](https://c.biancheng.net/c/)	[鱼C论坛](https://fishc.com.cn/thread-1053-1-1.html)
+
+[《带你学C带你飞》【第一季】全套资源 ](https://www.52pojie.cn/thread-1059597-1-1.html#:~:text=%E5%90%BE%E7%88%B1%E7%A0%B4%E8%A7%A3%E6%89%80%E5%8F%91) 
+
+[TIOBE Index - TIOBE编程语言排行](https://www.tiobe.com/tiobe-index/) 
 
 笔记： [扩展阅读](https://fishc.com.cn/forum.php?mod=forumdisplay&fid=329&filter=typeid&typeid=571&page=1)   [好：C语言自学笔记](https://www.cnblogs.com/longzhistudy/p/13200310.html)   [C语言万字基础笔记总结](https://cloud.tencent.com/developer/article/1855519)   [笔记](https://blog.csdn.net/Scxioi0/article/details/109827309)  [小甲鱼C语言1-22讲笔记（指针和数组）](https://blog.csdn.net/weixin_65801945/article/details/127436175?spm=1001.2101.3001.6650.13&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7ERate-13-127436175-blog-126647259.235%5Ev43%5Epc_blog_bottom_relevance_base8)  
 
-md: [c语言汇总](.\c语言汇总)
+C语言环境： [Dev-c++](https://www.baidu.com/s?ie=UTF-8&wd=Dev-c%2B%2B)   [Dev-C++_百度百科](https://baike.baidu.com/item/Dev-C%2B%2B/4461658)  [Code::Blocks](https://baike.baidu.com/item/Code%3A%3ABlocks/2131200) [C-Free已停更](https://zhuanlan.zhihu.com/p/1944774605236568693)  
+
+[5款免费的C/C++语言编程器](https://baijiahao.baidu.com/s?id=1663837244906140346&wfr=spider&for=pc)  
+
+==**md**==: [c语言汇总](.\c语言汇总)  [编译流程](.\编译流程)
+
+管理代码片段： [Code Snippets AI_百度百科](https://baike.baidu.com/item/Code%20Snippets%20AI/67284317)  [CodeSnippets_百度搜索](https://www.baidu.com/s?wd=CodeSnippets&usm=2&ie=utf-8&oq=code%20snippets&rsv_dl=re_dqa_generate&sa=re_dqa_generate)  
+
+杂： [C语言与汇编](https://www.cnblogs.com/whiteBear/p/16750219.html)  
+
+# 总结
+
+> 指针
+
+指针变量、`取地址运算符、取值运算符`、**引用**‌（变量的别名）、‌解引用（获取指针或引用所指向的实际值）
+
+指向数组的指针（数组名是第一个元素的地址）、指针运算(访问数组元素)
+
+指针数组和数组指针
+
+二维数组==array名字==理解为指向==包含5个元素的数组==的指针; ==array是指向子数组的指针==
+
+- `*(array+1) == array[1]` , 右边是左边的语法糖， 指向第二行首地址
+  - 解引用： 把地址的值取出来
+  - array+1:指向`第二行子数组`的第一个元素的首地址
+- `*(*(array+1)+3)是什么`   ==指向第二行第4个元素== 解引用的值  `array[1][3]`
+
+----
+
+void指针和null指针
+
+==指向指针的指针==：二重指针，需要2次解引用
+
+指向常量的指针和常量指针
+
+> 函数
+
+传值和传址
+
+==指针函数和函数指针==
+
+全局变量和局部变量
+
+作用域：  代码块作用域、文件作用域、原型、函数作用域
+
+**链接属性**： external、internal、none
+
+- 源代码变成可执行程序： 需要编译和链接
+- 不同源文件的==同名标识符，编译器如何处理==： 看链接属性， 高级语言的 `命名空间`
+
+生存期和存储类型
+
+- 从空间角度分析：变量的==作用域和链接属性==
+- 从时间角度分析：==生存期和存储类型==
+  - 生存期： 静态存储期、自动存储期
+  - 变量存储类型： 作用域、链接属性、生存期，这些都是由变量的存储类型定义的
+    - auto、register、static、extern、typedef
+    - 变量在内存中的存储方式，它们决定了变量在内存里怎么存放、能活多久、哪些代码能访问
+
+
+> 内存管理
+
+**动态内存管理**
+
+- 为了更灵活管理内存，用几个库函数： malloc、free、calloc、realloc
+  - `malloc`申请的内存空间位于==堆==上，要手动释放，用free
+    - malloc申请的内存空间是连续的，可以用数组索引
+    - malloc不会初始化申请的内存空间（不会把空间清0），需要自己初始化
+  - `calloc`函数申请空间并自动初始化为0
+  - ==根据需要扩展==已申请的内存空间: ==realloc==函数重新分配内存空间
+    - 空间不够用时
+
+**C内存布局**
+
+> 预处理
+
+宏函数 和 条件编译
+
+[内联函数](https://www.baidu.com/s?ie=UTF-8&wd=%E5%86%85%E8%81%94%E5%87%BD%E6%95%B0)
+
+> 复杂数据类型
+
+结构体： 初始化结构体
+
+共用体
+
+位运算
+
+> 文件操作
+
+读写文件
+
+> 输入输出
+
+标准流和错误处理
+
+IO缓冲区
 
 # c语言标准
 
 [C语言标准](https://baike.baidu.com/item/C%E8%AF%AD%E8%A8%80/105958) 	
 
-# 汇编和编译
+> 声明是"告诉编译器有这么个东西"，定义是"真的把它造出来（分配存储/给出函数体）"，初始化是"造出来的同时给它一个初值"。定义一定包含声明，初始化一定依附于定义。
 
-[C语言文件后缀有哪些？（超过10种）](https://c.biancheng.net/view/yl01vv0.html)	
+参考汇编语言目录下:`内存管理`， [C++核心概念：声明、定义与初始化的本质区别](https://blog.csdn.net/weixin_30512965/article/details/165502289)  
 
-## ==汇编和编译区别== 
+- **声明是告诉编译器“这个名字存在”，定义是真正分配内存，初始化是给这块内存一个初值**‌。三者的核心区别在于是否分配存储空间，以及内存里装的是什么。
 
-[C/C++ 中的内存段](https://www.bilibili.com/video/BV14hdbY6ETE/?vd_source=7346303e5e18677d7261c2c0c109ecfd)	  
-
-[动态编译与静态编译](https://www.bilibili.com/video/BV1bD4y147fH/?vd_source=7346303e5e18677d7261c2c0c109ecfd)	 [开源动画引擎 movy.js](https://www.bilibili.com/video/BV1Qf4y167Fq/?vd_source=7346303e5e18677d7261c2c0c109ecfd)	[好：编译过程-动画演示](https://www.bilibili.com/video/BV1MtQLYhEm1/?vd_source=7346303e5e18677d7261c2c0c109ecfd)	[编译过程动画-bilibili](https://search.bilibili.com/all?keyword=%E7%BC%96%E8%AF%91%E8%BF%87%E7%A8%8B%E5%8A%A8%E7%94%BB&search_source=5)	[编译原理笔记](https://blog.csdn.net/weixin_41633902/article/details/108282177)	[C语言编译流程详解-CSDN博客](https://blog.csdn.net/kevin_heidashuai/article/details/103049929)	
-
-AST: [AST抽象语法树的基本思想](https://blog.csdn.net/u013212754/article/details/106981084) [抽象语法树(AST) ](https://www.cnblogs.com/lxh2cwl/p/14842913.html) [初识抽象语法树](https://www.cnblogs.com/ToTigerMountain/articles/18047272)			[编译原理中的抽象语法树(AST)为什么而存在？ ](https://www.zhihu.com/question/363445606/answer/2767230528)	[抽象语法树AST(Abstract Syntax Tree)](https://juejin.cn/post/7379958888909144083)	[抽象语法树的定义（C语言版）-菜鸟笔记](https://www.coonote.com/c-note/abstract-syntax-tree.html)	[AST抽象语法树原理与创建 - 知乎](https://zhuanlan.zhihu.com/p/599326926)	[语法抽象树_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=%E8%AF%AD%E6%B3%95%E6%8A%BD%E8%B1%A1%E6%A0%91)	
-
-- `masm 1.asm`汇编编译为机器码 `1.obj`;  链接： `link 1.obj`  1.exe
-  - masm + link： `ml.exe  1.asm`
-
-图片可能显示不出来，汇编教程里有
-
-
-
-| ![](./c语言_鱼C.assets/Snipaste_2025-02-28_00-10-38.jpg) | ![](./c语言_鱼C.assets/Snipaste_2024-08-04_02-22-18.jpg) |
-| -------------------------------------------------------- | -------------------------------------------------------- |
-| ![](./c语言_鱼C.assets/Snipaste_2025-02-28_00-14-21.jpg) | ![](./c语言_鱼C.assets/Snipaste_2025-03-21_10-18-20.jpg) |
-| ![](./c语言_鱼C.assets/Snipaste_2025-03-21_10-19-44.jpg) | ![](./c语言_鱼C.assets/Snipaste_2025-03-21_10-20-37.jpg) |
-| ![](./c语言_鱼C.assets/ast.jpeg)                         | ![](./c语言_鱼C.assets/Snipaste_2025-03-21_10-55-56.jpg) |
-| ![](./c语言_鱼C.assets/Snipaste_2025-03-21_10-56-50.jpg) | ![](./c语言_鱼C.assets/Snipaste_2025-03-21_10-58-21.jpg) |
-| ![](./c语言_鱼C.assets/Snipaste_2025-03-21_11-00-30.jpg) | ![](./c语言_鱼C.assets/Snipaste_2025-03-21_11-01-51.jpg) |
-
-[编译器的工作流程](https://fishc.com.cn/thread-78063-1-1.html) 
-
-> ==链接==: 
->
-> 源代码中调用了 printf 函数，但并没有定义 printf 函数的实现过程，这是因为我们知道这是一个 stdio 的标准库函数。虽然在预处理（第一步）中，将 stdio.h 头文件导了进来，但那里边只有 printf 函数的声明而已：
->
-> `extern int printf (__const char *__restrict __format,...);`
->
-> 从程序员的角度看，函数库实际上就是==头文件（.h）和库文件（.so 或 .a）==的结合，==头文件中声明函数，库文件中定义函数的实现==。所以在最后一步的链接，就是把相关的库文件给链接进来（也就是把 printf 的实现代码添加进来）。
->
-> *注：Linux 下的库文件分为两大类，分别是：动态链接库（通常以 .so 结尾）和静态链接库（通常以 .a 结尾）*
-
-[符号表管理技术](https://blog.csdn.net/b12345678_123/article/details/125889597)    [什么是反编译_百度搜索](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=%E4%BB%80%E4%B9%88%E6%98%AF%E5%8F%8D%E7%BC%96%E8%AF%91&oq=%25E5%258F%258D%25E7%25BC%2596%25E8%25AF%2591%2520%25E5%258F%258D%25E6%25B1%2587%25E7%25BC%2596&rsv_pq=8be91c4200038449&rsv_t=cb24REoxSV3GSWU%2BWxsQT9Sk2OmlldjAQQXCGpecAZ48JVhEUoqENSQA%2FWs&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_btype=t&inputT=49651&rsv_sug3=22&rsv_sug1=18&rsv_sug7=100&rsv_sug2=0&rsv_sug4=7500876)    [java字节码和汇编语言有什么区别_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=java%E5%AD%97%E8%8A%82%E7%A0%81%E5%92%8C%E6%B1%87%E7%BC%96%E8%AF%AD%E8%A8%80%E6%9C%89%E4%BB%80%E4%B9%88%E5%8C%BA%E5%88%AB)  [汇编和编译](https://www.zhihu.com/question/388069555/answer/1155963493) [高级语言为什么不直接编译成机器码,而编译成汇编代码](https://blog.csdn.net/gaoyi221119/article/details/53319451)  [编译结果是汇编还是机器码_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=%E7%BC%96%E8%AF%91%E7%BB%93%E6%9E%9C%E6%98%AF%E6%B1%87%E7%BC%96%E8%BF%98%E6%98%AF%E6%9C%BA%E5%99%A8%E7%A0%81) 
-
-[构建和编译区别](https://www.baidu.com/s?ie=UTF-8&wd=%E6%9E%84%E5%BB%BA%E5%92%8C%E7%BC%96%E8%AF%91%E5%8C%BA%E5%88%AB)   [编译、构建、调试、运行](https://blog.csdn.net/qq_41861406/article/details/126370735)  [编译原理和语言知识](https://zhuanlan.zhihu.com/p/68871910)  
-
-- 构建build, 是指一些列的处理，包括编译  
-
-> **构建和编译是软件开发过程中的两个不同阶段，它们在功能与目的、执行环境与依赖、执行频率与阶段、涉及的工具与资源以及输出与结果方面存在差异。**‌
->
-> - ‌**功能与目的**‌：==构建是将源代码转化为可执行代码的过程==，它包括编译、链接、打包等一系列步骤，可能涉及测试、部署等。编译则是构建过程中的一个阶段，专门负责将人类可读的源代码转换成机器可执行的代码或中间代码。
-> - ‌**执行环境与依赖**‌：构建通常涉及复杂的依赖管理和环境配置，不仅包括编译，还可能包括测试、压缩、优化等步骤。编译只依赖于源代码和编译器，将源代码转换为目标代码或字节码。
-> - ‌**执行频率与阶段**‌：构建在开发过程中可能频繁执行，涉及的阶段从开发到测试再到部署都可能涉及。编译通常作为构建过程中的一个步骤，每次构建都会执行。
-> - ‌**涉及的工具与资源**‌：构建工具通常更为复杂，例如Jenkins、TeamCity等，可能涉及源代码管理、依赖管理、任务调度等。编译工具相对简单，例如GCC、javac等，主要负责源代码的转换。
-> - ‌**输出与结果**‌：构建的输出是一个完整的可部署或可执行的软件产品，包括编译后的代码、资源文件、配置等。编译的输出是中间代码或机器代码，通常需要链接等步骤才能成为可执行文件。
->
-> 综上所述，‌**编译**‌主要是将源代码转换为机器代码的过程，而‌**构建**‌则是一个更广泛的过程，包括编译在内的多个阶段，旨在生成一个可部署或可执行的软件产品。两者在软件开发过程中共同作用，以确保软件的质量、兼容性和可维护性‌
-
-**java是解释型语言**， 不直接编译成机器码，而是==将源代码转换为中间代码==（字节码），发送给解释器，由解释器逐句翻译给cpu执行；  好处是可以实现跨平台; 每次都要翻译，所有效率低
-
-- 编译型：做好菜再开吃；   解释型：火锅，想吃什么下什么料
-
-源代码经过**编译**得到汇编代码，汇编代码*经过**汇编**得到*机器代码
-
-- 把 `预处理+编译+汇编+连接` 简称为“编译+连接”，甚至直接称为“编译” 
-- 汇编是从汇编语言到机器码的过程
-- 编译是 `源代码->词法分析->语法分析->中间代码生成和优化->汇编代码->机器码` 的过程，有一些语言是解释执行，就转为对应虚拟机的字节码。  
-
-1. **预编译：** `Add.h` 和`Test.c` 头文件和源文件     [好：汇编和编译具体指什么-](https://www.zhihu.com/question/388069555)    [C++中预处理、编译、汇编、链接的区别](https://blog.csdn.net/qq_40287633/article/details/128006176?spm=1001.2101.3001.6661.1&depth_1-utm_source=distribute.pc_relevant_t0.none-task-blog-2%7Edefault%7EBlogCommendFromBaidu%7EPaidSort-1-128006176-blog-123750439.235%5Ev43%5Epc_blog_bottom_relevance_base5) 
-   1. 预编译的指令`gcc Test.c -E -o Test.i`，将`Test.c`预编译为 ==Test.i==    也可以 `gcc  Test.c && ./Test.out`
-   2. 编译时会将包含的[头文件](https://www.zhihu.com/search?q=头文件&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A3495132276})和`define`等替换拓展
-   3. 注释会被删除。注释毕竟是给人看的，编译器不需要
-2. **编译：**  `gcc -S Test.i -o Test.s` 将`Test.i`编译为 ==Test.s==  ；    
-   1. 代码被转化成了[汇编语言](https://www.zhihu.com/search?q=汇编语言&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A3495132276})，其实还进行了以下过程： 词法分析、语法分析、语义分析、中间代码生成；   
-   2. 要牢记住这个步骤 `符号汇总` 。将程序中出现的`函数汇总`起来，供下一步汇编时形成符号表
-3. **汇编： ** 将汇编代码转化为机器码， `gcc -c Test.s -o Test.o`  ==Test.o== 
-   1. 将上一个过程汇总的符号 `形成符号表`; 符号表包含的是 **函数名以及函数的地址** 
-4. **链接：** 
-   1. 解决一个项目多文件，多模块==相互之间调用==的问题，将这些模块之间和文件之间连接起来
-   2. 汇编过程中两个文件各生成了一个==符号表==包含着函数的名称和地址，链接时把这两个符号表合成一个，共享一个符号表，编译器会将地址无效的去除掉保留有效的
-   3. 编译是将[源代码](https://www.zhihu.com/search?q=源代码&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A3495132276})转换为目标代码(机器语言)的过程，**目标代码**通常以对象文件的形式存在。**链接**是==将多个对象文件和库文件结合在一起==，生成一个可执行程序的过程
-5. ==cl表示visual studio的编译器，gcc表示linux下的编译器== 
-
-> [编译程序](https://baike.baidu.com/item/编译程序/8290180?fromModule=lemma_inlink)把人们熟悉的语言换成2进制的。 [编译程序](https://baike.baidu.com/item/编译程序/8290180?fromModule=lemma_inlink)把一个[源程序](https://baike.baidu.com/item/源程序/9752646?fromModule=lemma_inlink)翻译成[目标程序](https://baike.baidu.com/item/目标程序/8082041?fromModule=lemma_inlink)的工作过程分为五个阶段：[词法分析](https://baike.baidu.com/item/词法分析/8853461?fromModule=lemma_inlink)；[语法分析](https://baike.baidu.com/item/语法分析/8853407?fromModule=lemma_inlink)；语义检查和[中间代码生成](https://baike.baidu.com/item/中间代码生成/8853318?fromModule=lemma_inlink)；[代码优化](https://baike.baidu.com/item/代码优化/571727?fromModule=lemma_inlink)；[目标代码](https://baike.baidu.com/item/目标代码/9407934?fromModule=lemma_inlink)生成。主要是进行[词法分析](https://baike.baidu.com/item/词法分析/8853461?fromModule=lemma_inlink)和[语法分析](https://baike.baidu.com/item/语法分析/8853407?fromModule=lemma_inlink)，又称为[源程序](https://baike.baidu.com/item/源程序/0?fromModule=lemma_inlink)分析，分析过程中发现有语法错误，给出提示信息
-
-[Java字节码文件和二进制文件的区别与联系](https://blog.csdn.net/qq_36851469/article/details/136218605)   [二进制文件和字节码的区别_百度搜索](https://www.baidu.com/s?ie=utf-8&f=3&rsv_bp=1&tn=baidu&wd=%E4%BA%8C%E8%BF%9B%E5%88%B6%E6%96%87%E4%BB%B6%E5%92%8C%E5%AD%97%E8%8A%82%E7%A0%81%E7%9A%84%E5%8C%BA%E5%88%AB&oq=%25E4%25BA%258C%25E8%25BF%259B%25E5%2588%25B6%25E6%2596%2587%25E4%25BB%25B6%25E3%2580%2581%25E5%25AD%2597%25E8%258A%2582%25E7%25A0%2581&rsv_pq=d140509500181410&rsv_t=c101VKcdWcOAJKIkNZr3qmVXZ7688rcfZjk9J8qLZ9eHOCLJjYOGtW2MZTA&rqlang=cn&rsv_dl=ts_0&rsv_enter=1&rsv_sug3=4&rsv_sug1=3&rsv_sug7=100&rsv_sug2=1&rsv_btype=t&prefixsug=%25E4%25BA%258C%25E8%25BF%259B%25E5%2588%25B6%25E6%2596%2587%25E4%25BB%25B6%25E5%2592%258C%25E5%25AD%2597%25E8%258A%2582%25E7%25A0%2581&rsp=0&inputT=6900&rsv_sug4=9254)    [反编译 反汇编_百度搜索](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=%E5%8F%8D%E7%BC%96%E8%AF%91%20%E5%8F%8D%E6%B1%87%E7%BC%96&oq=%25E5%258F%258D%25E7%25BC%2596%25E8%25AF%2591&rsv_pq=9df43ef20038cf1e&rsv_t=9bd88VA3zkbA3tRmI0E6rw330lou2O0N7lk%2FjzrNsQ1ywhkTETQptxqB1%2Fo&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_sug3=11&rsv_sug1=10&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&inputT=4455&rsv_sug4=6834) 
-
-- 目标代码：  [目标代码_百度百科](https://baike.baidu.com/item/%E7%9B%AE%E6%A0%87%E4%BB%A3%E7%A0%81/9407934?fr=ge_ala)    [源代码、目标代码、可执行代码、本地代码的区别 ](https://www.cnblogs.com/leesky/articles/13966617.html)  
-  - [编译器](https://baike.baidu.com/item/编译器/0?fromModule=lemma_inlink)或[汇编器](https://baike.baidu.com/item/汇编器/0?fromModule=lemma_inlink)处理[源代码](https://baike.baidu.com/item/源代码/0?fromModule=lemma_inlink)后所生成的代码，它一般由机器代码或接近于[机器语言](https://baike.baidu.com/item/机器语言/0?fromModule=lemma_inlink)的代码组成。[目标文件](https://baike.baidu.com/item/目标文件/0?fromModule=lemma_inlink)（object file）即存放目标代码的[计算机](https://baike.baidu.com/item/计算机/0?fromModule=lemma_inlink)文件，它常被称作[二进制文件](https://baike.baidu.com/item/二进制文件/0?fromModule=lemma_inlink)（binaries）。
-  - [目标文件](https://baike.baidu.com/item/目标文件/0?fromModule=lemma_inlink)包含着机器代码（可直接被[计算机](https://baike.baidu.com/item/计算机/0?fromModule=lemma_inlink)[中央处理器](https://baike.baidu.com/item/中央处理器/0?fromModule=lemma_inlink)执行）以及代码在运行时使用的[数据](https://baike.baidu.com/item/数据/0?fromModule=lemma_inlink)，如[重定位](https://baike.baidu.com/item/重定位/0?fromModule=lemma_inlink)信息，如用于链接或调试的程序符号（[变量](https://baike.baidu.com/item/变量/0?fromModule=lemma_inlink)和函数的名字），此外还包括其他调试信息。
-  - [目标文件](https://baike.baidu.com/item/目标文件/0?fromModule=lemma_inlink)是从[源代码](https://baike.baidu.com/item/源代码/0?fromModule=lemma_inlink)文件产生[程序文件](https://baike.baidu.com/item/程序文件/0?fromModule=lemma_inlink)这一过程的中间产物，[链接器](https://baike.baidu.com/item/链接器/0?fromModule=lemma_inlink)正是通过把目标文件链接在一起来生成[可执行文件](https://baike.baidu.com/item/可执行文件/0?fromModule=lemma_inlink)或库文件。[目标文件](https://baike.baidu.com/item/目标文件/0?fromModule=lemma_inlink)中唯一的要素是机器代码，例如，用于[嵌入式系统](https://baike.baidu.com/item/嵌入式系统/0?fromModule=lemma_inlink)的目标文件可能仅仅含有机器代码。 
-- 目标代码是基于某种特定的系统体系的。由一种机器上的编译器编译出来的文件可能不能在另一种不同体系的机器上执行。尽管，这个问题已经由“中间代码”和“即时编译器”解决，但仍然有许多语言，像Java，遵循目标代码生成的传统方式。
-- 修改源码后，每次需要编译源代码以反映目标代码中的更改。
-
-| ![](./c语言_鱼C.assets/Snipaste_2024-08-31_12-25-41.jpg) | ![](./c语言_鱼C.assets/Snipaste_2024-09-01_00-41-10.jpg) |
-| -------------------------------------------------------- | -------------------------------------------------------- |
-| ![](./c语言_鱼C.assets/Snipaste_2024-07-14_10-05-39.jpg) | ![](./c语言_鱼C.assets/Snipaste_2024-07-14_22-46-50.jpg) |
-| ![](./c语言_鱼C.assets/Snipaste_2024-09-01_00-44-12.jpg) | ![](./c语言_鱼C.assets/Snipaste_2024-09-01_00-48-44.jpg) |
-
-## make_makefile, cmake, qmake
-
-[CMake教程](https://zhuanlan.zhihu.com/p/534439206)   [好： make, makefile, cmake, qmake ](https://www.zhihu.com/question/27455963/answer/89770919) 
-
-[makefile教程](https://www.bilibili.com/video/BV1vTV2z3Eyp/?vd_source=7346303e5e18677d7261c2c0c109ecfd)	
-
-- gcc: GNU Compiler Collection（就是GNU[编译器套件](https://www.zhihu.com/search?q=编译器套件&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A89770919})），也可以简单认为是编译器
-  - 当程序只有一个源文件时，直接就可以用gcc命令编译它
-- 当程序包含==很多源文件== 时，用gcc命令==逐个编译==时，容易混乱而且工作量大, 所以出现了 `make工具`  **批量编译**
-  - make工具可以看成是一个智能的批处理工具，本身并没有编译和链接的功能，而是用类似于[批处理](https://www.zhihu.com/search?q=批处理&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A89770919})的方式 — 通过 `调用makefile文件` 中用户指定的命令来进行编译和链接的
-  - make 工具 根据makefile中的命令进行编译和链接
-  - makefile命令中 包含了调用gcc（也可以是别的编译器）去 `编译某个源文件的命令`
-- 工程大的时候，==手写makefile也很麻烦==， 出现了 Cmake 工具
-  - cmake 可以 ==更简单的生成makefile文件== 给make用。当然cmake还有其他功能，就是可以跨平台生成对应平台能用的makefile
-  - cmake 根据 `CMakeLists.txt`文件（学名：[组态档](https://www.zhihu.com/search?q=组态档&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A89770919})）去生成makefile
-  - `CMakeLists.txt`文件要自己手写
-- qmake
-  - Qt专有的moc编译器（The Meta-Object Compiler）和[uic编译器](https://www.zhihu.com/search?q=uic编译器&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A89770919})（User Interface Complier）， 对Qt源文件进行预处理
-  - [makefile文件](https://www.zhihu.com/search?q=makefile文件&search_source=Entity&hybrid_search_source=Entity&hybrid_search_extra={"sourceType"%3A"answer"%2C"sourceId"%3A89770919}) 没办法对qt源文件进行预处理。qmake就产生了
-  - qmake工具用来`生成Qt 专用makefile文件`，这种makefile文件就能自动智能调用moc和uic对源程序进行预处理和编译
-
-![](./c语言_鱼C.assets/f57298cefba18fca5f31b8762f01d933_r.png)
-
-## gcc
-
-[好：gcc执行过程](https://blog.csdn.net/liuxingyuzaixian/article/details/125979677)	[GCC编译过程及静态链接库和动态链接库](https://blog.csdn.net/f2157120/article/details/102811425)	   [gcc执行](https://blog.csdn.net/weixin_47826078/article/details/120474122)	 [gcc test.c &&_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=gcc%20test.c%20%26%26)	
-
-[GCC, the GNU Compiler Collection - GNU Project](https://gcc.gnu.org/) 
-
-[gcc说明](https://www.zhihu.com/search?hybrid_search_extra=%7B%22sourceType%22%3A%22answer%22%2C%22sourceId%22%3A89770919%7D&hybrid_search_source=Entity&q=%E7%BC%96%E8%AF%91%E5%99%A8%E5%A5%97%E4%BB%B6&search_source=Entity&type=content)   [GCC参数详解|菜鸟教程](https://www.runoob.com/w3cnote/gcc-parameter-detail.html)	
-
-[gcc 命令详解](https://www.cnblogs.com/zhangjxblog/p/7776551.html)   [gcc 命令详解及最佳实践](https://blog.51cto.com/u_11767891/5533097)   [gcc命令](https://zhuanlan.zhihu.com/p/698659528) [GCC常用命令](https://blog.csdn.net/txmnQAQ/article/details/120654273)   [GCC 常用命令](https://blog.csdn.net/TyearLin/article/details/130201720)  
-
-- GCC 原本作为 GNU 操作系统的官方编译器，现已被大多数类 Unix 操作系统（如Linux、BSD、Mac OS X等）采纳为标准的编译器，GCC 同样适用于微软的Windows。GCC 是自由软件过程发展中的著名例子，由自由软件基金会以 GPL 协议发布
-  - g++是gcc的c++编译器,  c语言的编译器程序名叫gcc
-- Windows下比较流行的GCC移植版主要有三个，他们是 ==MinGW，Cygwin 和 Djgpp== 
-
-```c
-// gcc 不指定目标文件名时默认生成的可执行文件名为 a.out(linux) 或 a.exe(windows)。
-// gcc [源文件名] -o [目标文件名]
-```
-
-
-
-| ![](./c语言_鱼C.assets/gcc.png) | ![](./c语言_鱼C.assets/gcc1.png) |
-| ------------------------------- | -------------------------------- |
-
-
+**记忆口诀**：声明是"提个名"，定义是"占块地"，初始化是"地里种上东西"；名字可以提多次，地只能占一次，种东西可选但只在地占下来时做。
 
 # 基本语法
-
-
 
 ## 打印
 
@@ -224,6 +181,8 @@ int sum(int a, int b) {
 
 [变量是内存地址的名字_百度搜索](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=%E5%8F%98%E9%87%8F%E6%98%AF%E5%86%85%E5%AD%98%E5%9C%B0%E5%9D%80%E7%9A%84%E5%90%8D%E5%AD%97&oq=%25E5%258F%2598%25E9%2587%258F%25E6%2598%25AF%25E5%259C%25B0%25E5%259D%2580%25E8%25BF%2598%25E6%2598%25AF%25E5%2580%25BC&rsv_pq=ffdb95a602ff5d12&rsv_t=cdbfk%2FkYpO07lW7PPAYJ%2BR25bu9T2cWpjq2JpyM68ucDpBx2J5Xd2KWaGbE&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_sug3=14&rsv_sug1=11&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&inputT=6139&rsv_sug4=7733) 
 
+constant
+
 > - 大多数现代编程语言中，当我们谈论变量时，我们主要关注的是它们存储的值，而不是它们在内存中的地址。然而，有些语言（如C和C++）允许程序员直接操作内存地址，通过指针来实现。
 > - 在底层，变量通常是通过内存地址来引用的。内存地址是计算机内存中每个存储单元的唯一标识符, 我们很少直接处理内存地址，因为这样做既复杂又容易出错。理解变量在内存中有一个位置（即地址）是很重要的，特别是当我们讨论指针、引用和内存管理时
 > - 在其他语言中，如Java、Python等，虽然程序员不直接操作内存地址，但变量背后的机制仍然涉及到内存地址。例如，在Java中，对象是通过引用来传递的，这些引用在底层可以看作是对象的内存地址的抽象。但是，从Java程序员的视角来看，他们操作的是对象的引用（类似于地址的抽象），而不是直接操作内存地址
@@ -250,7 +209,7 @@ int sum(int a, int b) {
 - 声明变量: `int n;`  数据类型 + 标识符 + 分号
 
 - 字符常量由单引号包括： `'a' '1'` ,字符串双引号包括
-  - ==符号常量==：称为宏定义， c语言代码中，所有标识符`替换为后面的常量`   `#define 标识符 常量`
+  - ==符号常量==：称为`宏定义`， c语言代码中，所有==标识符替换为后面的常量==   `#define 标识符 常量`
     - 用来命名多次使用的常量   [存储数据的常量与变量](https://zhuanlan.zhihu.com/p/47312168) 
     - 符号常量使用前必须先定义
     
@@ -268,7 +227,7 @@ int sum(int a, int b) {
 | ![](./c语言_鱼C.assets/Snipaste_2024-09-01_01-02-55.jpg)  | ![](./c语言_鱼C.assets/Snipaste_2024-09-01_12-00-16.jpg) |
 | ![](./c语言_鱼C.assets/Snipaste_2025-05-04_15-54-57.jpg)  |                                                          |
 
-### ==符号常量==
+### 符号常量
 
 [符号常量和普通常量区别_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=%E7%AC%A6%E5%8F%B7%E5%B8%B8%E9%87%8F%E5%92%8C%E6%99%AE%E9%80%9A%E5%B8%B8%E9%87%8F%E5%8C%BA%E5%88%AB)   [符号常量是不是宏_百度搜索](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=%E7%AC%A6%E5%8F%B7%E5%B8%B8%E9%87%8F%E6%98%AF%E4%B8%8D%E6%98%AF%E5%AE%8F&oq=%25E7%25AC%25A6%25E5%258F%25B7%25E5%25B8%25B8%25E9%2587%258F%25E5%2592%258C%25E6%2599%25AE%25E9%2580%259A%25E5%25B8%25B8%25E9%2587%258F%25E5%258C%25BA%25E5%2588%25AB&rsv_pq=ab18ce8b006b419c&rsv_t=8c07s5LjTcarQGbtl4A%2FiG5MW2y43ophDi2L1BxDdIVVRKD%2BNE5X9RbH2lQ&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_sug3=19&rsv_sug1=10&rsv_sug7=100&rsv_sug2=0&rsv_btype=t&inputT=7552&rsv_sug4=7552)  
 
@@ -281,7 +240,7 @@ int sum(int a, int b) {
 总的来说，符号常量提供了一种更灵活且易于管理的方式来定义和使用常量值，特别是在需要频繁修改常量值的情况下。同时，通过预处理指令的定义方式，符号常量能够在编译时进行优化，有助于提高代码的可读性和可维护性‌
 
 
-## ==字符串==
+## 字符串
 
 [查表原理](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=%E6%9F%A5%E8%A1%A8%E5%8E%9F%E7%90%86&oq=ascii%25E7%2594%25A8%25E7%259A%2584%25E6%2598%25AF%25E6%259F%25A5%25E8%25A1%25A8%25E5%258E%259F%25E7%2590%2586&rsv_pq=ee55f26e0140bb00&rsv_t=3f01dNVj5wyONDZvb0CARoXMyzUSb%2FZeIJ6cG2T7jm%2B1OXvPPgnXAiBSRVg&rqlang=cn&rsv_enter=1&rsv_dl=tb&bs=ascii%E7%94%A8%E7%9A%84%E6%98%AF%E6%9F%A5%E8%A1%A8%E5%8E%9F%E7%90%86)    [查表法](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=ascii%E7%94%A8%E7%9A%84%E6%98%AF%E6%9F%A5%E8%A1%A8%E5%8E%9F%E7%90%86&oq=ascii%25E7%2594%25A8%25E7%259A%2584%25E6%2598%25AF%25E6%259F%25A5%25E8%25A1%25A8%25E5%258E%259F%25E7%2590%2586&rsv_pq=ca99628e0295289a&rsv_t=383eVrmJ5IEKUJrMWo5Akd%2BRQJYMvCM8f8rX79R234cKDcgdjv1YO%2BNDK5c&rqlang=cn&rsv_enter=1&rsv_dl=tb&rsv_sug3=3&rsv_sug1=2&rsv_sug7=100&rsv_n=2&bs=ascii%E7%94%A8%E7%9A%84%E6%98%AF%E6%9F%A5%E8%A1%A8%E5%8E%9F%E7%90%86) 
 
@@ -369,7 +328,7 @@ int main()
 
 ## C 存储类
 
-[存储类别](https://www.bilibili.com/video/BV16jhWeMEen?p=48&vd_source=7346303e5e18677d7261c2c0c109ecfd) 
+[存储类别](https://www.bilibili.com/video/BV16jhWeMEen?p=48&vd_source=7346303e5e18677d7261c2c0c109ecfd) [c语言的存储类型](https://developer.aliyun.com/article/1604782)  [存储类、链接和内存管理](https://blog.csdn.net/yyhshm520/article/details/149265880)  
 
 定义变量、函数的存储位置、生命周期和作用域；  放在修饰的类型之前
 
@@ -383,11 +342,18 @@ C 程序中可用的存储类：
 
 ## ==函数==类型
 
-[__cdecl_百度百科](https://baike.baidu.com/item/__cdecl/9518056?fr=ge_ala) 
+[__cdecl_百度百科](https://baike.baidu.com/item/__cdecl/9518056?fr=ge_ala) [C语言函数的声明、定义、调用方式](https://www.jb51.net/program/3588065in.htm)  
 
 调用约定(Calling Convention) :  [函数调用的几种方式:__cdecl、__stdcall、__fastcall、__thiscall、__clrcall、__vectorcall](https://blog.csdn.net/weixin_43712770/article/details/126080701)    [函数命名规则及调用约定](https://blog.csdn.net/feixiang_john/article/details/7918427)   [函数名前面加__cdecl_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=%E5%87%BD%E6%95%B0%E5%90%8D%E5%89%8D%E9%9D%A2%E5%8A%A0__cdecl)  [关于函数调用方式__stdcall和__cdecl详解](https://www.jb51.net/article/93489.htm) 
 
 [C 数据类型](https://www.runoob.com/cprogramming/c-data-types.html) 
+
+[动画图解：递归](https://www.bilibili.com/video/BV16qpF64E6V/?vd_source=7346303e5e18677d7261c2c0c109ecfd)  
+
+> 函数声明像接口，但C语言里还有`函数指针和结构体模拟接口`，可以看看函数指针和普通函数有何区别?  或者`结构体封装函数指针`有什么好处?
+>
+> - 函数声明属于‌**编译阶段**‌的处理内容
+> - C 语言的 ‌**函数声明**‌ 类似于汇编语言（如 MASM）中的 ‌**`PROTO`**‌ 伪指令，两者都用于在调用前告知编译器/汇编器过程的接口规范，以支持参数检查和正确的调用序列生成
 
 - 基本数据类型
 - 枚举类型
@@ -432,6 +398,13 @@ int main() {
 - 可变参数
 
 #### 传值和传址
+
+- 传值： 实参的值拷贝一份给形参，形参和实参占用不同内存空间，函数内改的是副本，不影响原变量
+  - `void` `modifyValue(``int` `x) {...}`
+- 传址： 实参的内存地址传给形参，形参是指针变量，函数内可通过指针直接操作原变量。
+  - `void` `modifyValue(int *x){...}`
+- 传引用: 形参是实参的别名，二者共享同一块内存空间，不产生副本
+  - `void` `modifyValue(int` `&x) {...}`
 
 ```c
 /*
@@ -569,6 +542,8 @@ int main() {
 ### ==指针函数和函数指针==
 
 [指针函数和函数指针](https://cloud.tencent.com/developer/article/2030119)   [函数指针和指针函数的用法](https://blog.csdn.net/huzhuohuan/article/details/134037470) 
+
+指针函数是==返回指针的函数==，函数指针是==指向函数的指针变量==
 
 - 指针函数: 指针函数==返回类型是某一类型的指针==
   - **返回值是一个地址值** 
@@ -710,6 +685,13 @@ int main() {
 
 ### 全局变量
 
+[全局变量和局部变量、堆栈内存区域](https://blog.51cto.com/u_11908275/6392622?)  
+
+全局变量相当于汇编里的内存直接寻址（固定内存地址），局部变量相当于栈/寄存器相对寻址（如 `[ebp-4]`）
+
+- 全局变量在编译链接时就确定了固定内存地址，汇编里直接用那个地址访问；
+  - 局部变量则是在函数调用时临时在栈上分配空间，通过栈指针（如 `ebp` 或 `esp`）加偏移量来访问，函数返回后空间就被释放了
+
 - 局部变量屏蔽同名全局变量
 
 | ![](./c语言_鱼C.assets/Snipaste_2024-09-15_11-14-51.jpg) | ![变量定义在使用后面](./c语言_鱼C.assets/Snipaste_2024-09-15_11-17-49.jpg) |
@@ -721,8 +703,10 @@ int main() {
 代码块、文件作用域最重要
 
 - 代码块作用域：花括号里面的语句 `{语句}`
-- 文件作用域:  代码块之外声明的， 即全局变量
-- 原型：函数原型中声明的参数名； 作用域只限制与小括号里面，函数参数
+  - 函数的`形式参数`，以及函数内部的`局部变量`，它们的作用域仅限于该函数的函数体，具备代码块作用域
+
+- 文件作用域:  代码块之外声明的变量， 即全局变量
+- 原型：函数原型中声明的==参数名==； 作用域只限制与小括号里面，函数参数
 - 函数作用域：只适用于goto语句的标签
 
 | ![](./c语言_鱼C.assets/Snipaste_2024-09-15_11-37-18.jpg) | ![](./c语言_鱼C.assets/Snipaste_2024-09-15_16-10-22.jpg) |
@@ -760,37 +744,42 @@ int main() {
 
 **链接属性**
 
-- 源代码变成可执行程序： 需要编译和链接
+- 源代码变成可执行程序： 需要编译和链接 
 -  不同源文件的==同名标识符，编译器如何处理==： 看链接属性， 高级语言的 `命名空间`
-- 文件作用域的标识符才能拥有external、internal的链接属性； 其它作用域的标识符是none属性
-  - external: 多个文件,跨文件访问
+- 文件作用域的标识符才能拥有`external、internal`的链接属性； 其它作用域的标识符是none属性
+  - **external**: 多个文件,跨文件访问
     - 程序的全局变量、所有函数默认的链接属性为external。
     - 其余标识符的默认链接属性为none。
 
-  - internal：单个文件
+  - **internal**：单个文件
     - 在a文件定义了一个全局标识符，但不想被其他文件访问，可以对该标识符加上static关键字。
     - 在a、b文件中定义了同样的标识符，通过static关键字可以避免多重定义问题。
   
 - **修改链接属性**： ==static==使得`external`属性的标识符变为`internal`属性
   - 用static修改链接属性，只对具有文件作用域的标识符生效（例如全局变量），对于==其它作用域的标识符是静态变量==
 
-
 ### ==生存期和存储类型==
+
+==**md**==: [c语言汇总](.\c语言汇总) 
 
 - 从空间角度分析：变量的==作用域和链接属性==
 - 从时间角度分析：==生存期和存储类型==
   - 变量生存期：
-    - 静态：程序执行期间一直占据存储空间，直到程序关闭
-    - 自动存储期：代码块结束时自动释放存储空间
-  - 变量存储类型：==存储变量值的内存类型==
-    - auto： 代码段作用域，自动存储期，空链接属性
+    - ==静态==：程序执行期间一直占据存储空间，直到程序关闭
+    - ==自动存储期==：代码块结束时自动释放存储空间
+  - 变量存储类型：==存储变量值的内存类型==，作用域、链接属性、生存期，这些都是由变量的存储类型定义的，它们决定了==变量在内存里怎么存放、能活多久、哪些代码能访问==，c语言有5种存储类型
+    - auto： 代码段作用域，自动存储期，空链接属性 
       - 使用auto、register声明的变量有自动存储期
       - 使用static、extern声明的变量有静态存储期
   
-    - static: 
+    - static:  让`变量在程序运行期间一直存在`
       - 文件作用域时：修改链接属性（==多文件共享变成单文件独享==）
     
       - static描述局部变量： 将==局部变量指定为静态局部变量，拥有静态存储期==
+    
+      - 修饰局部变量：值会在函数多次调用之间保留。
+    
+      - ==修饰全局变量==：限制只在当前文件里可见，避免和其他文件冲突。
     
     - typedef：为数据类型定义一个别名，==与内存存储无关==
 
@@ -836,6 +825,10 @@ int main() {
 
 [C 数组 | 菜鸟教程](https://www.runoob.com/cprogramming/c-arrays.html)	
 
+数组不能动态定义： c语言不允许程序运行过程中，修改数组空间大小
+
+- 访问数组：数组名[下标]， `a[0]`
+
 > 声明数组
 
 声明一个数组，需要指定元素的类型和元素的数量:  `type arrayName [ arraySize ];`   例：  `double balance[10]`
@@ -852,23 +845,24 @@ int main() {
 
 二维数组在内存的存放
 
-| ![](./c语言_鱼C.assets/Snipaste_2025-05-04_19-04-30.jpg)     | ![](./c语言_鱼C.assets/Snipaste_2025-05-04_19-07-53.jpg) |
+| ![](./c语言_鱼C.assets/Snipaste_2026-11-01_11-43-23.jpg)     | ![](./c语言_鱼C.assets/Snipaste_2026-11-01_11-46-41.jpg) |
 | ------------------------------------------------------------ | -------------------------------------------------------- |
+| ![](./c语言_鱼C.assets/Snipaste_2025-05-04_19-04-30.jpg)     | ![](./c语言_鱼C.assets/Snipaste_2025-05-04_19-07-53.jpg) |
 | ![](./c语言_鱼C.assets/Snipaste_2025-05-04_22-50-30.jpg)     | ![](./c语言_鱼C.assets/Snipaste_2025-05-04_22-51-26.jpg) |
 | ![二维数组在内存的存放](./c语言_鱼C.assets/Snipaste_2025-05-04_22-52-56.jpg) | ![](./c语言_鱼C.assets/Snipaste_2025-05-05_01-03-57.jpg) |
 | ![](./c语言_鱼C.assets/Snipaste_2025-05-05_01-04-43.jpg)     | ![](./c语言_鱼C.assets/Snipaste_2025-05-05_01-06-12.jpg) |
 
-
-
 ## ==指针==
 
-小结：指针、指针变量、取地址运算符、取值运算符、**引用**‌（变量的别名）、‌解引用（获取指针或引用所指向的实际值）
+小结：指针、指针变量、`取地址运算符、取值运算符`、**引用**‌（变量的别名）、‌解引用（获取指针或引用所指向的实际值）
 
 要了解指针，先了解数据在内存中如何存储和读取
 
 [c语言有哪些指针_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=c%E8%AF%AD%E8%A8%80%E6%9C%89%E5%93%AA%E4%BA%9B%E6%8C%87%E9%92%88) 
 
 [指针](https://blog.51cto.com/u_15612474/5828245)   [指针知识整理](https://blog.csdn.net/hixiaogui/article/details/79372447)   [C语言指针讲解](https://zhuanlan.zhihu.com/p/374981052)    [指针是地址,还是地址里的值_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=%E6%8C%87%E9%92%88%E6%98%AF%E5%9C%B0%E5%9D%80%EF%BC%8C%E8%BF%98%E6%98%AF%E5%9C%B0%E5%9D%80%E9%87%8C%E7%9A%84%E5%80%BC)	
+
+[c++中引用、指针、函数的深思](https://langbin.blog.csdn.net/article/details/79805817) [二维数组与语法糖](https://cloud.tencent.com/developer/article/1380668)     [双重解引用_百度搜索](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=%E5%8F%8C%E9%87%8D%E8%A7%A3%E5%BC%95%E7%94%A8&oq=%25E6%2595%25B0%25E7%25BB%2584%25E6%258C%2587%25E9%2592%2588&rsv_pq=d8c1a1c00034453d&rsv_t=37c3TBZqaYifwhZizra1SUi8iwrdjzmn63cuun93pzRlVPqGF0fDrppsA3k&rqlang=cn&rsv_enter=1&rsv_dl=tb_enter&rsv_btype=t&inputT=1811990&rsv_sug2=0&rsv_sug3=33&rsv_sug1=9&rsv_sug7=100&rsv_sug4=1811990)  
 
 指针分类： [c语言中的各种指针(空指针、野指针、悬垂指针、void指针) ](https://www.jianshu.com/p/b6ed44ff406e)  [C语言指针用法分类](https://zhuanlan.zhihu.com/p/638785026)    [C语言指针](https://cloud.tencent.com/developer/article/2399837) 
 
@@ -877,20 +871,17 @@ int main() {
 - 指针作为参数传递
 - ==函数指针与数组==
 
-
-
 系统给变量在内存中分配空间, ==通过变量名访问内存==,  通过变量名所在的地址访问数据;   
 
 **真相**： 内存就是一个很大的字符数组，编译器知道变量所在的地址，并根据变量类型读取相应范围的数据
 
-- 指针就是地址（这个地址存的数据还是是另一个地址，参考ce修改器里的指针路径）, 指针变量用来存放指针, 即==存放地址==, 普通变量存放数据
+- 指针就是地址（这个地址存的数据还是是另一个地址，参考ce修改器里的指针路径）, ==指针变量用来存放指针==, 即存放地址, 普通变量存放数据
   - 指针的值是个地址
-
-- 指针是一种特殊的变量，它存储的是内存的地址
-
-- **指针变量也有类型**, 它的类型是`存放的地址指向的数据类型`
-
-- ‌**指针指向的地址，中的值是内存中的数据**‌。通过指针访问的数据是通过解引用操作符 `*p` 来实现
+  - 指针是一种特殊的变量，它存储的是内存的地址
+  
+  - **指针变量也有类型**, 它的类型是`存放的地址指向的数据类型`
+  
+- ‌**指针指向的地址中的值是内存中的数据**‌。通过指针访问的数据是通过==解引用==操作符 `*p` 来实现
 
 定义指针变量: 类型表示指针变量存放的地址,指向的内存单元的数据类型
 
@@ -927,15 +918,17 @@ int main() {
 
 ### 指针和数组
 
+**小结**： 指向数组的指针（数组名是第一个元素的地址）、指针运算(访问数组元素)、
+
 指针存的是变量a的地址
 
 数组名就是一个地址,数组名是第一个元素的地址
 
-| ![](./c语言_鱼C.assets/Snipaste_2025-05-06_13-19-45.jpg)     | ![](./c语言_鱼C.assets/Snipaste_2025-05-06_14-43-06.jpg) |
-| ------------------------------------------------------------ | -------------------------------------------------------- |
-| ![数组名就是一个地址](./c语言_鱼C.assets/Snipaste_2025-05-06_14-45-48.jpg) | ![](./c语言_鱼C.assets/Snipaste_2025-05-06_14-46-32.jpg) |
-| ![](./c语言_鱼C.assets/Snipaste_2025-05-06_14-49-05.jpg)     | ![](./c语言_鱼C.assets/Snipaste_2025-05-06_14-49-34.jpg) |
-| ![]()                                                        | ![]()                                                    |
+| ![](./c语言_鱼C.assets/Snipaste_2025-05-06_13-19-45.jpg)     | ![](./c语言_鱼C.assets/Snipaste_2025-05-06_14-43-06.jpg)     |
+| ------------------------------------------------------------ | ------------------------------------------------------------ |
+| ![数组名就是一个地址](./c语言_鱼C.assets/Snipaste_2025-05-06_14-45-48.jpg) | ![](./c语言_鱼C.assets/Snipaste_2025-05-06_14-46-32.jpg)     |
+| ![](./c语言_鱼C.assets/Snipaste_2025-05-06_14-49-05.jpg)     | ![](./c语言_鱼C.assets/Snipaste_2025-05-06_14-49-34.jpg)     |
+| ![](./c语言_鱼C.assets/Snipaste_2026-11-01_13-28-52.jpg)     | ![理解双重解引用](./c语言_鱼C.assets/Snipaste_2025-04-27_12-18-19.jpg) |
 
 
 
@@ -967,7 +960,8 @@ int main() {
 - ==数组名==其实是**数组第一个元素的地址**
 - ==指向数组的指针==： 用指针指向数组； 下图中的==语句1 等价于 语句2== 
   - `char *p;  p=a; 或 p=&a[0]` 用指针指向数组第一个元素的地址
-
+  - 指针指向数组： 数组的首地址，存到指针变量p中, 即指针指向数组的第一个元素的地址
+  
 - **指针的运算**
   - 下标法、指针法
   - 不是将地址加1，而是**指向数组的下一个元素**
@@ -1103,15 +1097,20 @@ int main() {
 小结： 用==数组指针==访问二维数组；    用==指向指针的指针==(2层解引用 )来指向 指针数组 ,*指向字符指针时很有用*；   
 
 > 指针数组:`int *p1[5]`     数组指针:`(*p2)[5]`
+>
+> - 数组指针：`int (*p)`，p 是指针，指向含 10 个 int 的数组。
+> - 指针数组：`int *p`，p 是数组，含 10 个指向 int 的指针。
 
 -  **lvalue :  用于识别或定位一个存储位置的标识符。（注意：左值同时还必须是可改变的）**
--  变量是左值，因此可以出现在赋值号的左边。数值型的字面值是右值，因此不能被赋值，不能出现在赋值号的左边
+-  ==变量是左值==，因此可以出现在赋值号的左边。数值型的字面值是右值，因此不能被赋值，不能出现在赋值号的左边
    -  指针是变量，数组名是常量
    -  `*str++` 优先级：先运算str++， 用*解引用,取str++的值
+   -  `左值代表有内存地址的持久对象，右值代表临时数据或字面量`。核心区别在于是否可寻址及能否出现在赋值号左侧 
+      -  数组名不是左值
    
 -  ==指针数组是数组， 数组指针是指针==； 
    -  从运算符优先级分析  [运算符的优先级和结合性](https://fishc.com.cn/thread-67664-1-1.html)  数组下标优先级高 `[]` 
-   -  **指针数组**： `int *p1[5]` 每个数组元素都是==指向int变量的指针==， `p1[5]`优先级比`*`高， ==先被定义为一个数组==, `[]`优先级高;  带 `×`，意思是指向`int`变量的指针, 每个元素是整型指针
+   -  **指针数组**： `int *p1[5]` 每个数组元素都是==指向int变量的指针==， `[]`优先级比`*`高， ==先被定义为一个数组p1[5]==, `[]`优先级高;  带 `×`，意思是指向`int`变量的指针, 每个元素是整型指针
       -  *指向字符指针时很有用*
       -  每个数组元素存放一个指针变量
       -  图片里： 这里加*取的是字符，我们要的是字符串
@@ -1128,7 +1127,7 @@ int main() {
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
 | ![](./c语言_鱼C.assets/Snipaste_2025-05-06_19-42-09.jpg)     | ![*str++错误](./c语言_鱼C.assets/Snipaste_2024-09-05_15-19-03.jpg) |
 | ![指向字符指针时很有用: 这里加*取的是字符，我们要的是字符串_要给出字符串的地址,所以用pl[i]](./c语言_鱼C.assets/Snipaste_2024-09-02_14-50-19.jpg) | ![](./c语言_鱼C.assets/Snipaste_2024-09-02_14-52-38.jpg)     |
-| ![](./c语言_鱼C.assets/Snipaste_2025-05-06_19-45-39.jpg)     | ![]()                                                        |
+| ![](./c语言_鱼C.assets/Snipaste_2025-05-06_19-45-39.jpg)     | ![](./c语言_鱼C.assets/Snipaste_2026-11-01_14-33-00.jpg)     |
 
 
 
@@ -1211,10 +1210,12 @@ int main() {
 > - 引用是某块内存的别名，而指针指向一块内存，其内容是所指内存的地址。这意味着引用和指针虽然都指向内存中的某个位置，但它们在使用上有一些区别。具体来说，==程序不为引用分配内存区域，而只为指针变量分配内存区域==。这表明引用和存储地址在概念和应用上有所区别‌
 
 - 二维数组是一维数组的扩展： 1、二维数组名字 2、 `*(array+1) == array[1]`  指向第二行首地址 3、
-  - array名字理解为 指向==包含5个元素的数组==的指针; ==array是指向子数组的指针==
+  - ==array名字==理解为指向==包含5个元素的数组==的指针; ==array是指向子数组的指针==
   - 下标索引都可以转化为指针索引形式
     - 视频首次提到解引用
-    - `*(array+1) == array[1]` , 右边是左边的语法糖， 指向第二行首地址,加*解引用  *(array+1)是什么  等于`array[1]`
+    - `*(array+1) == array[1]` , 右边是左边的语法糖， 指向第二行首地址
+      - 解引用： 把地址的值取出来
+      - array+1:指向`第二行子数组`的第一个元素的首地址
     - `*(*(array+1)+3)是什么`   ==指向第二行第4个元素== 解引用的值  `array[1][3]`
   - **数组指针和二维数组**
     - 下图中：==array是指向3个元素的指针==， `(*p)[3]`也是指向3个元素的指针
@@ -1303,8 +1304,12 @@ array[1][2]: 5
 
 [c语言中的各种指针(空指针、野指针、悬垂指针、void指针) ](https://www.jianshu.com/p/b6ed44ff406e) 
 
-- ==void==类型指针转其它类型指针
-  - 强制转换： `*(int *)pv` : 强制转为int类型指针，再解引用
+- void
+  - void指针： `void *p`
+  - ==void==类型指针转其它类型指针
+    - 需要强制转换： `*(int *)pv` : 强制转为int类型指针，再解引用
+    - `void*`（void指针）强制转换为具体类型指针‌，如 `(int*)p`
+
 - ==空指针==： Null指针，指针不指向任何数据； 
   - 是个宏定义 `#define NULL ((void *)0)` ==把地址0变为指针==
   - 指针不知道指向哪里时，初始化为NULL
@@ -1344,7 +1349,7 @@ int main() {
 
 ### ==指向指针的指针==
 
-- 存放的是指针的地址，2层解引用 
+- 存放的是指针的地址，2层解引用，**二重指针** 
   - `int **pp = &p;`
   - `没*是左值，是变量；  有*是右值，是值`
   
@@ -1460,6 +1465,16 @@ int main() {
 
 ## 标识符作用域
 
+# 程序执行流程
+
+[C语言基础语句](https://baike.baidu.com/item/C%E8%AF%AD%E8%A8%80%E5%9F%BA%E7%A1%80%E8%AF%AD%E5%8F%A5/10185564)  [C 循环 | 菜鸟教程](https://www.runoob.com/cprogramming/c-loops.html)  
+
+三种基本程序结构： 顺序、分支和循环
+
+- 选择: if-else、switch
+  - 三元运算符: `条件运算符 ? :`，可以用来替代 if...else 语句，
+- 循环：while、do-while、for
+
 # ==预处理指令==
 
 [C语言预处理：对象宏、函数宏（带参宏）、可变参数宏](https://baijiahao.baidu.com/s?id=1793509370772340414&wfr=spider&for=pc)     [C语言宏#define(精通详解) ](https://zhuanlan.zhihu.com/p/367761694)   [C语言之宏详解](https://blog.csdn.net/weixin_64038246/article/details/131850405)   
@@ -1470,9 +1485,13 @@ int main() {
 
 **C语言3大预处理功能**： 文件包含、宏定义、条件编译
 
+- 宏定义作用就是==替换==
+
 ![](./c语言_鱼C.assets/Snipaste_2025-05-08_00-53-03.jpg)
 
 ## 宏定义
+
+[宏](https://zhuanlan.zhihu.com/p/274261343)  [宏预处理和几类函数使用](https://blog.51cto.com/u_13447329/5565012?)  
 
 **C语言宏定义**:  [c语言宏定义 - Search](https://cn.bing.com/search?q=c%E8%AF%AD%E8%A8%80%E5%AE%8F%E5%AE%9A%E4%B9%89&form=QBLHCN&sp=-1&lq=0&pq=&sc=20-0&qs=n&sk=)	  [C语言宏定义](https://zhuanlan.zhihu.com/p/626200508)	[C语言宏#define](https://zhuanlan.zhihu.com/p/367761694)  [#define宏定义](https://c.biancheng.net/view/utbhj8p.html)	 [宏定义](https://c.biancheng.net/view/446.html)	[内置宏与常用宏](https://blog.csdn.net/Apollon_krj/article/details/82911180)		 
 
@@ -1485,6 +1504,8 @@ int main() {
 - 在Ｃ语言中允许==用一个标识符来表示一个字符串，称为宏==；该字符串可以是常数、表达式、格式串等。在编译预处理时，对程序中所有出现的“宏名”，都用宏定义中的字符串去代换，这称为“宏代换”或“宏展开”。
 - 预定义宏不带参数，不能重新定义
 
+> 编译前对代码进行文本替换，主要用来==定义常量==、实现简单的==函数式宏 和 条件编译==
+
 **c语言预处理命令** : 
 
 [c语言预处理命令_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=c%E8%AF%AD%E8%A8%80%E9%A2%84%E5%A4%84%E7%90%86%E5%91%BD%E4%BB%A4)	[C 预处理器 | 菜鸟教程](https://www.runoob.com/cprogramming/c-preprocessors.html)	 [C语言预处理指令详解](https://blog.csdn.net/Z1tai/article/details/127381366)	  [预处理指令](https://blog.csdn.net/2401_86272648/article/details/142726115)	
@@ -1493,7 +1514,7 @@ int main() {
 
 1. 不带参数的宏定义
    1. `#define PI 3.14`
-2. 带参数的宏定义: 宏函数`或者`宏定义函数, 带参数的宏`或者`带参宏
+2. ==带参数的宏定义==: 宏函数`或者`宏定义函数, 带参数的宏`或者`带参宏
    1. `#define 宏名(参数列表)  (宏体)`   ,  `宏体`是宏展开后要替换的内容
    2. 使用宏定义简单的函数，这些宏在调用时会被直接展开，而不会像普通函数那样产生调用开销（主要是数据的入栈和出栈）
 
@@ -1640,6 +1661,12 @@ int main(void) {
 1. **指针路径（参考CE）**‌：指针是一个变量，它存储的是内存地址。在C语言中，指针用于存储和管理内存地址，是实现间接访问和动态内存管理的关键。指针存储的是虚拟地址，而不是直接的物理内存地址‌12。
 2. ‌**虚拟地址**‌：虚拟地址是程序运行时使用的地址空间，由操作系统提供。每个进程都有自己独立的虚拟地址空间，这些空间的大小取决于系统的位数（如32位系统的虚拟地址空间为4GB，64位系统则更大）。虚拟地址是抽象的，程序不需要关心实际的物理内存布局‌
 
+> 前面学的存储类型，是限定变量的作用域，以及生命周期，代码需要服从预先定制的内存管理规则，即变量要预先定义好，不能在程序运行时再定义
+>
+> 后来c99出现了==变长数组==，允许用户通过变量声明数组的长度，提高了代码灵活度，但数组一旦创建，就不能修改长度
+>
+> 为了更灵活管理内存，用几个库函数： malloc、free、calloc、realloc，在 `<stdlib.h>` 
+
 ## 内存管理函数
 
 - 4个库函数
@@ -1649,7 +1676,7 @@ int main(void) {
 ### malloc_free
 
 - malloc申请存储基本数据类型的内存空间，还可以申请任意尺寸的内存空间
-- `malloc`申请的内存空间位于`堆`上，要手动释放，用free
+- `malloc`申请的内存空间位于==堆==上，要手动释放，用free
   - 局部变量存在栈上
   - c没有垃圾回收机制，需要自己释放
 
@@ -1669,11 +1696,13 @@ ptr = (int *)malloc(sizeof(int));
 
 malloc申请存储基本数据类型的内存空间，还可以申请任意尺寸的内存空间    [C中函数形参与实参 ](https://www.cnblogs.com/liude814/p/15955550.html) 
 
-- malloc不会初始化申请的内存空间，需要自己初始化，标准库提供了高效的==函数接口处理内存空间数据==
+- malloc申请的内存空间是连续的，可以用数组索引
+  
+- malloc不会初始化申请的内存空间（不会把空间清0），需要自己初始化，标准库提供了高效的==函数接口处理内存空间数据==
   - calloc函数申请空间并自动初始化为0
 
-- 根据需要扩展已申请的内存空间
-  - 空间不够用时拷贝到另一个大的空间,太繁琐，用封装后的realloc函数实现空间拷贝
+- ==根据需要扩展==已申请的内存空间: ==realloc==函数重新分配内存空间
+  - 空间不够用时拷贝到另一个大的空间,太繁琐，用封装后的==realloc==函数重新分配内存空间，实现空间拷贝
 
 
 | ![](./c语言_鱼C.assets/Snipaste_2024-09-17_17-38-00.jpg)     | ![](./c语言_鱼C.assets/Snipaste_2024-09-17_17-40-30.jpg)     |
@@ -1766,15 +1795,19 @@ int main(void) {
 
 [c语言的常量在内存中的位置](https://www.yisu.com/ask/52374754.html)  [全局变量和常量在内存中的分布_内存属性](https://www.jianshu.com/p/4a0deb2d9280)    [存储数据的常量与变量](https://zhuanlan.zhihu.com/p/47312168)   [C语言：内存分配---栈区、堆区、全局区、常量区和代码区](http://www.360doc.com/content/24/0315/10/68492704_1117239828.shtml)  [内存空间布局](https://juejin.cn/post/6844904097267597320)  
 
-[代码段只存常量_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=%E4%BB%A3%E7%A0%81%E6%AE%B5%E5%8F%AA%E5%AD%98%E5%B8%B8%E9%87%8F)  
+[代码段只存常量_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=%E4%BB%A3%E7%A0%81%E6%AE%B5%E5%8F%AA%E5%AD%98%E5%B8%B8%E9%87%8F)  [未初始化静态变量存在什么段_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=%E6%9C%AA%E5%88%9D%E5%A7%8B%E5%8C%96%E9%9D%99%E6%80%81%E5%8F%98%E9%87%8F%E5%AD%98%E5%9C%A8%E4%BB%80%E4%B9%88%E6%AE%B5)  
+
+全局变量和静态变量在初始化规则上基本一致：==显式初始化时存于已初始化数据段（.data）==，`未初始化或显式赋值为0时存于未初始化数据段（.bss）`
 
 内存属性: 读(read)，写(write)，执行(execyte)，共享(share)等
 
 ==高的表示地址值大==
 
-- bss：  未初始化数据段，存放==未初始化数据== 
+- bss：  未初始化数据段，存放==未初始化数据==
+  - `未初始化的静态变量`（包括全局和局部静态变量）存放在 ‌**BSS段**
+
 - data： 初始化数据段，  存放==初始化数据== 
-  - 存储**全局数据**和**静态数据和常量** 
+  - 存储**初始化全局变量**和**局部静态变量** ， 常量(不确定有没有)
 
 - text**代码段**存放==只读==常数变量，例如字符串常量等
   - 可执行的代码/只读常量，如string定义的==字符串常量== 
@@ -1852,6 +1885,8 @@ int main(void) {
 | ![](./c语言_鱼C.assets/Snipaste_2024-09-25_17-21-58.jpg) | ![](./c语言_鱼C.assets/Snipaste_2025-05-10_18-39-05.jpg) |
 
 # 复杂数据类型
+
+[c语言之共用体union、枚举、大小端模式](https://cloud.tencent.com/developer/article/1755436)  [共用体](https://blog.csdn.net/qq_53139964/article/details/142783284)  [枚举与联合体（共用体）](https://developer.aliyun.com/article/1230770)  
 
 ## struct
 
@@ -1986,6 +2021,8 @@ int main() {
 
 ## 共用体_联合类型
 
+[联合体](https://baike.baidu.com/item/%E8%81%94%E5%90%88%E4%BD%93/721541)  [共用体_百度搜索](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=%E5%85%B1%E7%94%A8%E4%BD%93&oq=c%25E8%25AF%25AD%25E8%25A8%2580%25E5%25AE%258F%25E5%25AE%259A%25E4%25B9%2589%25E5%258A%259F%25E8%2583%25BD&rsv_pq=e4ffd41300092055&rsv_t=b8c2%2B9LDX2ExArT8h7Ltst9t56vV%2FFAt57ZRKQLEPuoSjVqoBQGZJ1cH7sI&rqlang=cn&rsv_enter=1&rsv_dl=tb_click&rsv_btype=t&inputT=1469334&rsv_sug2=0&rsv_sug3=24&rsv_sug1=14&rsv_sug7=100&rsv_n=2&rsv_sug4=1469334)  
+
 - 也叫联合体、联合类型
 - ==共用体的所有成员共享同一个内存地址==，多个成员存在一个内存地址
 
@@ -1995,6 +2032,8 @@ int main() {
 | ![](./c语言_鱼C.assets/Snipaste_2024-09-26_01-00-02.jpg) |                                                          |
 
 ## ==枚举==
+
+[C enum(枚举)](https://www.runoob.com/cprogramming/c-enum.html)  
 
 使一些特定的数值，具有名字, 这样程序更容易阅读和理解, 例如宏定义
 

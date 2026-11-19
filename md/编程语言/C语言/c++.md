@@ -1,3 +1,5 @@
+md: [c++汇总](.\c++汇总)
+
 # 库
 
 [C++_百度百科](https://baike.baidu.com/item/C++/99272) 

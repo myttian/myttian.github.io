@@ -32,6 +32,10 @@ typora：[Typora字体颜色设置的3种方案](https://blog.csdn.net/liulei952
 
 [YAML Front Matter用途](https://juejin.cn/post/7369517075800555532)  [markdown yaml front matter_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=markdown%20yaml%20front%20matter)
 
+
+
+[Typora中插图片](https://blog.csdn.net/Mr____Cheng/article/details/113723111) [YAML front matter ](https://zhuanlan.zhihu.com/p/599096662) [为 obsidian 中的文件批量添加 front matter](https://www.jianshu.com/p/317fa053861b)  [Typora:设置图像自动复制到自己指定文件夹下](https://www.cnblogs.com/shiwanghualuo/p/12193029.html) 
+
 # autohotkey
 
 autohotkey参考手册：[AutoHotkey Documentation](https://www.autohotkey.com/docs/)    [官方文档](https://wyagd001.github.io/zh-cn/docs/AutoHotkey.htm) [AutoHotkey中文手册](https://ahkcn.sourceforge.net/docs/AutoHotkey.htm) [autohotkey参考](https://www.jianshu.com/p/b430f59387e8)  
@@ -132,6 +136,8 @@ AI写代码
 
 矩阵： [矩阵全家桶](https://blog.csdn.net/weixin_30475039/article/details/96654125)  
 
+公式截图转latex： [Mathpix Snipping_百度搜索](https://www.baidu.com/s?ie=utf-8&f=8&rsv_bp=1&tn=baidu&wd=Mathpix%20Snipping&oq=Mathpix%2520Snipping%2520Tool&rsv_pq=add0e002001071c1&rsv_t=44abyFDVxlK5EP5cUuS2SxceeuCNaKmPYJv52Mzl%2Bc8G%2BTCvgEosHIpTPQo&rqlang=cn&rsv_enter=1&rsv_dl=tb_enter&rsv_btype=t&inputT=386&rsv_sug3=7&rsv_sug4=503)  
+
 ## 安装
 
 软件： [LaTeX 2026](https://www.cnblogs.com/66yy3/p/21335010)  [石用软件](https://shiyrj.top/)  
@@ -145,6 +151,10 @@ AI写代码
 ## 公式
 
 [符号、公式与Markdown排版](https://blog.csdn.net/xiaoyuting999/article/details/135077406)  
+
+## 对齐
+
+[Latex中公式对齐设置](https://zhuanlan.zhihu.com/p/699439989)  
 
 ## markdown公式
 
@@ -374,6 +384,8 @@ LaTeX中制作会计分录通常可以使用`accounting`宏包来实现。这个
 
 [Markdown和Latex中文字上下标的方法](https://blog.51cto.com/u_15561675/10770247)  [LaTeX中一些特殊数学公式的编写](https://cloud.tencent.com/developer/article/2161787)  [LaTeX 特殊公式格式笔记](https://zhuanlan.zhihu.com/p/476838702)  
 
+[ LaTeX 箭头上方的字母](https://zhuanlan.zhihu.com/p/617658362)  [符号上下写文字](https://my.oschina.net/u/4406957/blog/3849285)  [Latex 箭头](https://www.cnblogs.com/mtcnn/p/9422878.html)  
+
 [latex积分号怎么变大](https://zhidao.baidu.com/question/399360473984129365.html)  
 
 [\dfrac_百度搜索](https://www.baidu.com/s?ie=UTF-8&wd=%5Cdfrac)  [\cfrac和\dfrac区别](https://www.zhihu.com/question/457761901/answer/3505461377)  
@@ -391,6 +403,18 @@ LaTeX中制作会计分录通常可以使用`accounting`宏包来实现。这个
   - pmatrix 圆括号 ( )、Bmatrix 花括号 { }、vmatrix 单竖线 `| |`（行列式）、Vmatrix 双竖线 `‖ ‖`
 
 [论文符号](https://blog.csdn.net/qq_24059779/article/details/84339167)  
+
+大括号： 
+
+- `\left\{` 和 `\right\}， \right |`  ，括号高度会随内容自动变化；若只用一侧括号，另一侧写成 `\right.`
+
+## 在线识别公式
+
+[三个免费在线工具](https://blog.csdn.net/weixin_31842715/article/details/161607017)  [LaTex_OCR](https://mathocr.cn/)  
+
+[mathpix](https://snip.mathpix.com/movie107/snips/7f029574-ab6f-426e-8586-49af0a8af969)  [simpletex](https://www.simpletex.cn/ai/latex_ocr)  
+
+[白描网页版](https://web.baimiaoapp.com/image-to-latex)  
 
 # 变量
 
